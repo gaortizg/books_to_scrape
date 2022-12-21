@@ -91,7 +91,7 @@ def fetch_books_by_category(category_name, category):
     Fetch books by category
     Scrape all the books listed on one page
     Go to next page if current page is not the last page
-    Break the loopat the last page
+    Break the loop at the last page
     """
 
     # Get category URL, i.e., the link to the first page of books under category
