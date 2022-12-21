@@ -1,0 +1,1001 @@
+scraping_date,book_title,category,price,rating,instock,availability,UPC,link
+2022-12-20,It's Only the Himalayas,Travel,Â£45.17,2,In stock,19,a22124811bfa8350,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+2022-12-20,Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,Travel,Â£49.43,4,In stock,15,ce60436f52c5ee68,https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html
+2022-12-20,See America: A Celebration of Our National Parks & Treasured Sites,Travel,Â£48.87,3,In stock,14,f9705c362f070608,https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html
+2022-12-20,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,Travel,Â£36.94,2,In stock,8,1809259a5a5f1d8d,https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html
+2022-12-20,Under the Tuscan Sun,Travel,Â£37.33,3,In stock,7,a94350ee74deaa07,https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html
+2022-12-20,A Summer In Europe,Travel,Â£44.34,2,In stock,7,cc1936a9f4e93477,https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html
+2022-12-20,The Great Railway Bazaar,Travel,Â£30.54,1,In stock,6,48736df57e7bec9f,https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html
+2022-12-20,A Year in Provence (Provence #1),Travel,Â£56.88,4,In stock,6,9e60929f521fa280,https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html
+2022-12-20,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),Travel,Â£23.21,1,In stock,3,366a236aa1ea6f07,https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html
+2022-12-20,Neither Here nor There: Travels in Europe,Travel,Â£38.95,3,In stock,3,747cf7fca2ccdbd4,https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html
+2022-12-20,"1,000 Places to See Before You Die",Travel,Â£26.08,5,In stock,1,228ba5e7577e1d49,https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html
+2022-12-20,Sharp Objects,Mystery,Â£47.82,4,In stock,20,e00eb4fd7b871a48,https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2022-12-20,"In a Dark, Dark Wood",Mystery,Â£19.63,1,In stock,18,19ed25f4641d5efd,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+2022-12-20,The Past Never Ends,Mystery,Â£56.50,4,In stock,16,5ee94540d0749ea0,https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+2022-12-20,A Murder in Time,Mystery,Â£16.64,1,In stock,16,f733e8c19d40ec2e,https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+2022-12-20,The Murder of Roger Ackroyd (Hercule Poirot #4),Mystery,Â£44.10,4,In stock,15,c7b5183f4d1d4efe,https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+2022-12-20,The Last Mile (Amos Decker #2),Mystery,Â£54.21,2,In stock,14,3bc89353f7e3a3cc,https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
+2022-12-20,That Darkness (Gardiner and Renner #1),Mystery,Â£13.92,1,In stock,14,0c7b9cf2b7662b65,https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html
+2022-12-20,Tastes Like Fear (DI Marnie Rome #3),Mystery,Â£10.69,1,In stock,14,2d1e337aaf341858,https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html
+2022-12-20,A Time of Torment (Charlie Parker #14),Mystery,Â£48.35,5,In stock,14,4416c474713ec1f5,https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html
+2022-12-20,A Study in Scarlet (Sherlock Holmes #1),Mystery,Â£16.73,2,In stock,14,63ee5bc46066a8a8,https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html
+2022-12-20,Poisonous (Max Revere Novels #3),Mystery,Â£26.80,3,In stock,12,abdd91e96515a617,https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html
+2022-12-20,Murder at the 42nd Street Library (Raymond Ambler #1),Mystery,Â£54.36,4,In stock,12,e7fe3bf2768602cf,https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html
+2022-12-20,Most Wanted,Mystery,Â£35.28,3,In stock,12,c039f5aceb093537,https://books.toscrape.com/catalogue/most-wanted_623/index.html
+2022-12-20,Hide Away (Eve Duncan #20),Mystery,Â£11.84,1,In stock,12,bddc6fd036eb6279,https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html
+2022-12-20,Boar Island (Anna Pigeon #19),Mystery,Â£59.48,3,In stock,12,49b24c6a41b82bd2,https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html
+2022-12-20,The Widow,Mystery,Â£27.26,2,In stock,11,6159d8b187831770,https://books.toscrape.com/catalogue/the-widow_609/index.html
+2022-12-20,Playing with Fire,Mystery,Â£13.71,3,In stock,11,05a61a3bd8ca4149,https://books.toscrape.com/catalogue/playing-with-fire_602/index.html
+2022-12-20,What Happened on Beale Street (Secrets of the South Mysteries #2),Mystery,Â£25.37,5,In stock,7,9735c969c652dd89,https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html
+2022-12-20,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),Mystery,Â£52.30,5,In stock,7,20789fb17b423c4c,https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html
+2022-12-20,Delivering the Truth (Quaker Midwife Mystery #1),Mystery,Â£20.89,4,In stock,7,4e980425468708da,https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html
+2022-12-20,The Mysterious Affair at Styles (Hercule Poirot #1),Mystery,Â£24.80,4,In stock,6,2da5edf8b5776c9a,https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html
+2022-12-20,In the Woods (Dublin Murder Squad #1),Mystery,Â£38.38,2,In stock,6,6958de044cb28a84,https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html
+2022-12-20,The Silkworm (Cormoran Strike #2),Mystery,Â£23.05,5,In stock,3,f06039c29b5891fa,https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html
+2022-12-20,The Exiled,Mystery,Â£43.45,3,In stock,3,dd003e904727281a,https://books.toscrape.com/catalogue/the-exiled_247/index.html
+2022-12-20,The Cuckoo's Calling (Cormoran Strike #1),Mystery,Â£19.21,1,In stock,3,1be6d3b121865edb,https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html
+2022-12-20,Extreme Prey (Lucas Davenport #26),Mystery,Â£25.40,3,In stock,3,588ba85ff11a3263,https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html
+2022-12-20,Career of Evil (Cormoran Strike #3),Mystery,Â£24.72,2,In stock,3,b461cf238506c5b8,https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html
+2022-12-20,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),Mystery,Â£57.70,4,In stock,1,b0913e67d38d5ed5,https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html
+2022-12-20,The Girl You Lost,Mystery,Â£12.29,5,In stock,1,4280ac3eab57aa5d,https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html
+2022-12-20,The Girl In The Ice (DCI Erika Foster #1),Mystery,Â£15.85,3,In stock,1,ee61197edb882599,https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html
+2022-12-20,Blood Defense (Samantha Brinkman #1),Mystery,Â£20.30,3,In stock,1,95cdfd514098c38b,https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html
+2022-12-20,1st to Die (Women's Murder Club #1),Mystery,Â£53.98,1,In stock,1,f684a82adc49f011,https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html
+2022-12-20,Tipping the Velvet,Historical Fiction,Â£53.74,1,In stock,20,90fa61229261140a,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2022-12-20,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,Historical Fiction,Â£29.69,3,In stock,16,9beb96a2300109d7,https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html
+2022-12-20,A Flight of Arrows (The Pathfinders #2),Historical Fiction,Â£55.53,5,In stock,16,3a6fb983e2554023,https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html
+2022-12-20,The House by the Lake,Historical Fiction,Â£36.95,1,In stock,15,9287e238d7c3b06e,https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html
+2022-12-20,Mrs. Houdini,Historical Fiction,Â£30.25,5,In stock,15,a40723994f715420,https://books.toscrape.com/catalogue/mrs-houdini_821/index.html
+2022-12-20,The Marriage of Opposites,Historical Fiction,Â£28.08,4,In stock,14,52cf2a5933ec5d8f,https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html
+2022-12-20,Glory over Everything: Beyond The Kitchen House,Historical Fiction,Â£45.84,3,In stock,14,de4b403cb629a29f,https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html
+2022-12-20,"Love, Lies and Spies",Historical Fiction,Â£20.55,2,In stock,12,9546d537fbf99eb6,https://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html
+2022-12-20,A Paris Apartment,Historical Fiction,Â£39.01,4,In stock,12,63343e287971bb0c,https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html
+2022-12-20,Lilac Girls,Historical Fiction,Â£17.28,2,In stock,11,bade9943ee01b63f,https://books.toscrape.com/catalogue/lilac-girls_597/index.html
+2022-12-20,The Constant Princess (The Tudor Court #1),Historical Fiction,Â£16.62,3,In stock,7,24933c712f0bca2f,https://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html
+2022-12-20,The Invention of Wings,Historical Fiction,Â£37.34,1,In stock,6,e6635f5b0a2c78db,https://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html
+2022-12-20,World Without End (The Pillars of the Earth #2),Historical Fiction,Â£32.97,4,In stock,5,2e5b4ff08a75fd02,https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html
+2022-12-20,The Passion of Dolssa,Historical Fiction,Â£28.32,5,In stock,4,011674f4a3834b8d,https://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html
+2022-12-20,Girl With a Pearl Earring,Historical Fiction,Â£26.77,1,In stock,4,5eff05e59f905a49,https://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html
+2022-12-20,Voyager (Outlander #3),Historical Fiction,Â£21.07,5,In stock,3,7feac4000cbc5859,https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html
+2022-12-20,The Red Tent,Historical Fiction,Â£35.66,5,In stock,3,3c456328b04a8ee8,https://books.toscrape.com/catalogue/the-red-tent_273/index.html
+2022-12-20,The Last Painting of Sara de Vos,Historical Fiction,Â£55.55,2,In stock,3,476c7972e9b41891,https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html
+2022-12-20,The Guernsey Literary and Potato Peel Pie Society,Historical Fiction,Â£49.53,1,In stock,3,4a0a276409968a73,https://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html
+2022-12-20,Girl in the Blue Coat,Historical Fiction,Â£46.83,2,In stock,3,41fc5dce044f16f5,https://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html
+2022-12-20,Between Shades of Gray,Historical Fiction,Â£20.79,5,In stock,3,155e42df837ee5ff,https://books.toscrape.com/catalogue/between-shades-of-gray_128/index.html
+2022-12-20,While You Were Mine,Historical Fiction,Â£41.32,5,In stock,1,8ceb5c6aed2c5f8b,https://books.toscrape.com/catalogue/while-you-were-mine_97/index.html
+2022-12-20,The Secret Healer,Historical Fiction,Â£34.56,3,In stock,1,38f776ab9118aed7,https://books.toscrape.com/catalogue/the-secret-healer_80/index.html
+2022-12-20,Starlark,Historical Fiction,Â£25.83,3,In stock,1,e25164e5b3fe208b,https://books.toscrape.com/catalogue/starlark_56/index.html
+2022-12-20,Lost Among the Living,Historical Fiction,Â£27.70,4,In stock,1,d510567580c8be52,https://books.toscrape.com/catalogue/lost-among-the-living_31/index.html
+2022-12-20,A Spy's Devotion (The Regency Spies of London #1),Historical Fiction,Â£16.97,5,In stock,1,19fec36a1dfb4c16,https://books.toscrape.com/catalogue/a-spys-devotion-the-regency-spies-of-london-1_3/index.html
+2022-12-20,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sequential Art,Â£52.29,5,In stock,19,3b1c02bac2a429e6,https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+2022-12-20,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),Sequential Art,Â£16.28,1,In stock,16,09555be379ad9253,https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
+2022-12-20,This One Summer,Sequential Art,Â£19.49,4,In stock,16,51653ef291ab7ddc,https://books.toscrape.com/catalogue/this-one-summer_947/index.html
+2022-12-20,The Nameless City (The Nameless City #1),Sequential Art,Â£38.16,4,In stock,16,7d385d34d12e60ff,https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html
+2022-12-20,"Saga, Volume 5 (Saga (Collected Editions) #5)",Sequential Art,Â£51.04,2,In stock,16,53a3d11bb568cc8b,https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html
+2022-12-20,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",Sequential Art,Â£50.40,3,In stock,16,c82a3e358c773c73,https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html
+2022-12-20,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",Sequential Art,Â£13.61,5,In stock,16,0fa6dceead7ce47a,https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html
+2022-12-20,"Pop Gun War, Volume 1: Gift",Sequential Art,Â£18.97,1,In stock,16,e80f8e518b300dfe,https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html
+2022-12-20,Patience,Sequential Art,Â£10.16,3,In stock,16,9429b4d59c537af5,https://books.toscrape.com/catalogue/patience_916/index.html
+2022-12-20,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",Sequential Art,Â£15.44,4,In stock,16,889139b8e9c4cb36,https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html
+2022-12-20,orange: The Complete Collection 1 (orange: The Complete Collection #1),Sequential Art,Â£48.41,1,In stock,16,11809b1d323b3057,https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html
+2022-12-20,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",Sequential Art,Â£46.91,2,In stock,16,460089f796fb3f82,https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html
+2022-12-20,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",Sequential Art,Â£45.61,3,In stock,16,b6ee99bcf06fc91f,https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html
+2022-12-20,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),Sequential Art,Â£19.92,2,In stock,16,57e5a4d515c8ce44,https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html
+2022-12-20,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",Sequential Art,Â£29.17,2,In stock,16,8d4eefad7a2b3915,https://books.toscrape.com/catalogue/i-hate-fairyland-vol-1-madly-ever-after-i-hate-fairyland-compilations-1-5_899/index.html
+2022-12-20,I am a Hero Omnibus Volume 1,Sequential Art,Â£54.63,3,In stock,16,1c89ae5bb804e4de,https://books.toscrape.com/catalogue/i-am-a-hero-omnibus-volume-1_898/index.html
+2022-12-20,"Giant Days, Vol. 2 (Giant Days #5-8)",Sequential Art,Â£22.11,2,In stock,16,f2df3bb043a8abb0,https://books.toscrape.com/catalogue/giant-days-vol-2-giant-days-5-8_895/index.html
+2022-12-20,Danganronpa Volume 1,Sequential Art,Â£51.99,4,In stock,16,09b6cc87e62c2c58,https://books.toscrape.com/catalogue/danganronpa-volume-1_889/index.html
+2022-12-20,"Codename Baboushka, Volume 1: The Conclave of Death",Sequential Art,Â£36.72,4,In stock,16,8754c83ab2a7ae71,https://books.toscrape.com/catalogue/codename-baboushka-volume-1-the-conclave-of-death_887/index.html
+2022-12-20,Camp Midnight,Sequential Art,Â£17.08,4,In stock,16,7b599c8bfcdd8d30,https://books.toscrape.com/catalogue/camp-midnight_886/index.html
+2022-12-20,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",Sequential Art,Â£37.92,2,In stock,16,bdf415fd484ea8a7,https://books.toscrape.com/catalogue/bitch-planet-vol-1-extraordinary-machine-bitch-planet-collected-editions_882/index.html
+2022-12-20,The Shadow Hero (The Shadow Hero),Sequential Art,Â£33.14,1,In stock,15,d6361d16212664ed,https://books.toscrape.com/catalogue/the-shadow-hero-the-shadow-hero_860/index.html
+2022-12-20,"Fables, Vol. 1: Legends in Exile (Fables #1)",Sequential Art,Â£41.62,4,In stock,15,65d034adf80834b7,https://books.toscrape.com/catalogue/fables-vol-1-legends-in-exile-fables-1_806/index.html
+2022-12-20,Batman: The Long Halloween (Batman),Sequential Art,Â£36.50,2,In stock,15,7edc0527cf782e19,https://books.toscrape.com/catalogue/batman-the-long-halloween-batman_793/index.html
+2022-12-20,Batman: The Dark Knight Returns (Batman),Sequential Art,Â£15.38,5,In stock,15,47271d8e08b5d31c,https://books.toscrape.com/catalogue/batman-the-dark-knight-returns-batman_792/index.html
+2022-12-20,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",Sequential Art,Â£37.34,4,In stock,14,047097293bb4d1c0,https://books.toscrape.com/catalogue/wonder-woman-earth-one-volume-one-wonder-woman-earth-one-1_783/index.html
+2022-12-20,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",Sequential Art,Â£53.90,1,In stock,14,92275cedf6d8ee15,https://books.toscrape.com/catalogue/we-are-robin-vol-1-the-vigilante-business-we-are-robin-1_778/index.html
+2022-12-20,Through the Woods,Sequential Art,Â£25.38,2,In stock,14,6e44bcbeac7f4360,https://books.toscrape.com/catalogue/through-the-woods_772/index.html
+2022-12-20,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),Sequential Art,Â£11.89,5,In stock,14,ac8e3949d284e9a9,https://books.toscrape.com/catalogue/superman-vol-1-before-truth-superman-by-gene-luen-yang-1_739/index.html
+2022-12-20,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",Sequential Art,Â£35.43,4,In stock,14,394f6d30cafc3edb,https://books.toscrape.com/catalogue/so-cute-it-hurts-vol-6-so-cute-it-hurts-6_734/index.html
+2022-12-20,Robin War,Sequential Art,Â£47.82,3,In stock,14,85b2176b3b194030,https://books.toscrape.com/catalogue/robin-war_730/index.html
+2022-12-20,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",Sequential Art,Â£25.48,2,In stock,14,31e2e2d9cca3778f,https://books.toscrape.com/catalogue/red-hoodarsenal-vol-1-open-for-business-red-hoodarsenal-1_729/index.html
+2022-12-20,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",Sequential Art,Â£38.39,2,In stock,14,71e36f33981ddb74,https://books.toscrape.com/catalogue/naruto-3-in-1-edition-vol-14-includes-vols-40-41-42-naruto-omnibus-14_721/index.html
+2022-12-20,Lowriders to the Center of the Earth (Lowriders in Space #2),Sequential Art,Â£51.51,2,In stock,14,a10c7515834240f3,https://books.toscrape.com/catalogue/lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html
+2022-12-20,El Deafo,Sequential Art,Â£57.62,5,In stock,14,27c5968fe43cc06e,https://books.toscrape.com/catalogue/el-deafo_691/index.html
+2022-12-20,Batman: Europa,Sequential Art,Â£32.01,2,In stock,14,bf68dcb5fad3cc8c,https://books.toscrape.com/catalogue/batman-europa_668/index.html
+2022-12-20,Art Ops Vol. 1,Sequential Art,Â£48.80,3,In stock,14,ffdc825785c0ede8,https://books.toscrape.com/catalogue/art-ops-vol-1_664/index.html
+2022-12-20,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",Sequential Art,Â£10.90,2,In stock,14,5319169a72714c62,https://books.toscrape.com/catalogue/adulthood-is-a-myth-a-sarahs-scribbles-collection_659/index.html
+2022-12-20,"Fruits Basket, Vol. 9 (Fruits Basket #9)",Sequential Art,Â£33.95,4,In stock,9,97187f5cf0385da3,https://books.toscrape.com/catalogue/fruits-basket-vol-9-fruits-basket-9_563/index.html
+2022-12-20,Roller Girl,Sequential Art,Â£14.10,5,In stock,8,aeb51dfbe8aeec59,https://books.toscrape.com/catalogue/roller-girl_540/index.html
+2022-12-20,"Fruits Basket, Vol. 7 (Fruits Basket #7)",Sequential Art,Â£19.57,1,In stock,7,de6d7645f192d517,https://books.toscrape.com/catalogue/fruits-basket-vol-7-fruits-basket-7_468/index.html
+2022-12-20,"Fruits Basket, Vol. 6 (Fruits Basket #6)",Sequential Art,Â£20.96,4,In stock,6,97258f576d4bb672,https://books.toscrape.com/catalogue/fruits-basket-vol-6-fruits-basket-6_427/index.html
+2022-12-20,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",Sequential Art,Â£36.39,3,In stock,6,6e06d0f00f6da20f,https://books.toscrape.com/catalogue/death-note-vol-6-give-and-take-death-note-6_425/index.html
+2022-12-20,"Fruits Basket, Vol. 5 (Fruits Basket #5)",Sequential Art,Â£16.33,1,In stock,5,3fd83dcf37bf1bc0,https://books.toscrape.com/catalogue/fruits-basket-vol-5-fruits-basket-5_376/index.html
+2022-12-20,"Death Note, Vol. 5: Whiteout (Death Note #5)",Sequential Art,Â£52.41,1,In stock,5,1c0a38899c82b60a,https://books.toscrape.com/catalogue/death-note-vol-5-whiteout-death-note-5_368/index.html
+2022-12-20,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",Sequential Art,Â£27.88,2,In stock,4,df53c2948b32bde3,https://books.toscrape.com/catalogue/the-demon-prince-of-momochi-house-vol-4-the-demon-prince-of-momochi-house-4_344/index.html
+2022-12-20,"Fruits Basket, Vol. 4 (Fruits Basket #4)",Sequential Art,Â£50.44,4,In stock,4,8fff1084aa085a13,https://books.toscrape.com/catalogue/fruits-basket-vol-4-fruits-basket-4_321/index.html
+2022-12-20,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",Sequential Art,Â£14.41,3,In stock,3,a33ed2e6068df53e,https://books.toscrape.com/catalogue/the-wicked-the-divine-vol-3-commercial-suicide-the-wicked-the-divine_287/index.html
+2022-12-20,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",Sequential Art,Â£55.55,5,In stock,3,91eb9605998a7c03,https://books.toscrape.com/catalogue/the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html
+2022-12-20,"Saga, Volume 3 (Saga (Collected Editions) #3)",Sequential Art,Â£21.57,5,In stock,3,7b870bf85d01c2dc,https://books.toscrape.com/catalogue/saga-volume-3-saga-collected-editions-3_216/index.html
+2022-12-20,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),Sequential Art,Â£43.63,3,In stock,3,9707989a439757b4,https://books.toscrape.com/catalogue/prodigy-the-graphic-novel-legend-the-graphic-novel-2_207/index.html
+2022-12-20,Persepolis: The Story of a Childhood (Persepolis #1-2),Sequential Art,Â£39.13,1,In stock,3,cb62418129b864a3,https://books.toscrape.com/catalogue/persepolis-the-story-of-a-childhood-persepolis-1-2_206/index.html
+2022-12-20,Original Fake,Sequential Art,Â£31.45,3,In stock,3,c59283b05905c853,https://books.toscrape.com/catalogue/original-fake_203/index.html
+2022-12-20,"Grayson, Vol 3: Nemesis (Grayson #3)",Sequential Art,Â£42.72,1,In stock,3,4f6985aca357ae09,https://books.toscrape.com/catalogue/grayson-vol-3-nemesis-grayson-3_164/index.html
+2022-12-20,"Fruits Basket, Vol. 3 (Fruits Basket #3)",Sequential Art,Â£45.17,2,In stock,3,d5f5a122a593b580,https://books.toscrape.com/catalogue/fruits-basket-vol-3-fruits-basket-3_159/index.html
+2022-12-20,"Black Butler, Vol. 1 (Black Butler #1)",Sequential Art,Â£49.31,1,In stock,3,15f415d436888b2d,https://books.toscrape.com/catalogue/black-butler-vol-1-black-butler-1_130/index.html
+2022-12-20,Awkward,Sequential Art,Â£38.02,2,In stock,3,1d89a2aa9f6ce50f,https://books.toscrape.com/catalogue/awkward_124/index.html
+2022-12-20,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",Sequential Art,Â£54.81,1,In stock,2,276dc716b1da8899,https://books.toscrape.com/catalogue/the-sandman-vol-2-the-dolls-house-the-sandman-volumes-2_110/index.html
+2022-12-20,"Saga, Volume 2 (Saga (Collected Editions) #2)",Sequential Art,Â£11.75,3,In stock,2,9189fd009df41d0e,https://books.toscrape.com/catalogue/saga-volume-2-saga-collected-editions-2_107/index.html
+2022-12-20,"Fruits Basket, Vol. 2 (Fruits Basket #2)",Sequential Art,Â£11.64,5,In stock,2,c0db71f6bb14db11,https://books.toscrape.com/catalogue/fruits-basket-vol-2-fruits-basket-2_100/index.html
+2022-12-20,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",Sequential Art,Â£18.51,4,In stock,1,09d26b5f819c6a36,https://books.toscrape.com/catalogue/y-the-last-man-vol-1-unmanned-y-the-last-man-1_98/index.html
+2022-12-20,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",Sequential Art,Â£36.52,2,In stock,1,dac9d1e654fac737,https://books.toscrape.com/catalogue/the-wicked-the-divine-vol-1-the-faust-act-the-wicked-the-divine_86/index.html
+2022-12-20,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",Sequential Art,Â£54.12,3,In stock,1,5faefdc861684eb1,https://books.toscrape.com/catalogue/the-sandman-vol-1-preludes-and-nocturnes-the-sandman-volumes-1_79/index.html
+2022-12-20,The Complete Maus (Maus #1-2),Sequential Art,Â£10.64,3,In stock,1,3301af038a720587,https://books.toscrape.com/catalogue/the-complete-maus-maus-1-2_62/index.html
+2022-12-20,"Skip Beat!, Vol. 01 (Skip Beat! #1)",Sequential Art,Â£42.12,3,In stock,1,2ac720f76384c57e,https://books.toscrape.com/catalogue/skip-beat-vol-01-skip-beat-1_55/index.html
+2022-12-20,"Saga, Volume 1 (Saga (Collected Editions) #1)",Sequential Art,Â£28.48,1,In stock,1,4f64568dfefa3ce7,https://books.toscrape.com/catalogue/saga-volume-1-saga-collected-editions-1_48/index.html
+2022-12-20,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",Sequential Art,Â£46.96,5,In stock,1,3cdca3b4a93980f5,https://books.toscrape.com/catalogue/rat-queens-vol-1-sass-sorcery-rat-queens-collected-editions-1-5_46/index.html
+2022-12-20,"Paper Girls, Vol. 1 (Paper Girls #1-5)",Sequential Art,Â£21.71,4,In stock,1,bcbcbcf0f6ed196f,https://books.toscrape.com/catalogue/paper-girls-vol-1-paper-girls-1-5_44/index.html
+2022-12-20,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",Sequential Art,Â£29.87,3,In stock,1,326825e02a198cf6,https://books.toscrape.com/catalogue/ouran-high-school-host-club-vol-1-ouran-high-school-host-club-1_43/index.html
+2022-12-20,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",Sequential Art,Â£39.39,4,In stock,1,35a60467893aa168,https://books.toscrape.com/catalogue/ms-marvel-vol-1-no-normal-ms-marvel-2014-2015-1_34/index.html
+2022-12-20,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",Sequential Art,Â£45.24,3,In stock,1,6fe02600f322a0a9,https://books.toscrape.com/catalogue/hawkeye-vol-1-my-life-as-a-weapon-hawkeye-1_24/index.html
+2022-12-20,"Giant Days, Vol. 1 (Giant Days #1-4)",Sequential Art,Â£56.76,4,In stock,1,eb0fe24bbc845ecc,https://books.toscrape.com/catalogue/giant-days-vol-1-giant-days-1-4_22/index.html
+2022-12-20,"Fruits Basket, Vol. 1 (Fruits Basket #1)",Sequential Art,Â£40.28,5,In stock,1,72e6fbf4f6382557,https://books.toscrape.com/catalogue/fruits-basket-vol-1-fruits-basket-1_21/index.html
+2022-12-20,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",Sequential Art,Â£34.65,5,In stock,1,099fae4a0705d63b,https://books.toscrape.com/catalogue/bleach-vol-1-strawberry-and-the-soul-reapers-bleach-1_7/index.html
+2022-12-20,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",Sequential Art,Â£57.06,4,In stock,1,bfd5e1701c862ac3,https://books.toscrape.com/catalogue/ajin-demi-human-volume-1-ajin-demi-human-1_4/index.html
+2022-12-20,The Secret Garden,Classics,Â£15.08,4,In stock,5,abbb492978ff656d,https://books.toscrape.com/catalogue/the-secret-garden_413/index.html
+2022-12-20,The Metamorphosis,Classics,Â£28.58,1,In stock,5,93379e3a2072a01b,https://books.toscrape.com/catalogue/the-metamorphosis_409/index.html
+2022-12-20,The Pilgrim's Progress,Classics,Â£50.26,2,In stock,4,6053ddf69c967d5f,https://books.toscrape.com/catalogue/the-pilgrims-progress_353/index.html
+2022-12-20,The Hound of the Baskervilles (Sherlock Holmes #5),Classics,Â£14.82,2,In stock,4,6587f46697fc4443,https://books.toscrape.com/catalogue/the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html
+2022-12-20,Little Women (Little Women #1),Classics,Â£28.07,4,In stock,4,deda806b68b0aa11,https://books.toscrape.com/catalogue/little-women-little-women-1_331/index.html
+2022-12-20,Gone with the Wind,Classics,Â£32.49,3,In stock,4,23310ce84d3c9f85,https://books.toscrape.com/catalogue/gone-with-the-wind_324/index.html
+2022-12-20,Candide,Classics,Â£58.63,3,In stock,4,2798974abc8a58a8,https://books.toscrape.com/catalogue/candide_316/index.html
+2022-12-20,Animal Farm,Classics,Â£57.22,3,In stock,4,1451b55e5e56bb89,https://books.toscrape.com/catalogue/animal-farm_313/index.html
+2022-12-20,Wuthering Heights,Classics,Â£17.73,3,In stock,3,5a7ff9aaa3168878,https://books.toscrape.com/catalogue/wuthering-heights_307/index.html
+2022-12-20,The Picture of Dorian Gray,Classics,Â£29.70,2,In stock,3,b9f6305a3d650e2c,https://books.toscrape.com/catalogue/the-picture-of-dorian-gray_270/index.html
+2022-12-20,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),Classics,Â£26.78,4,In stock,3,cad70d6ffd53912f,https://books.toscrape.com/catalogue/the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html
+2022-12-20,Beowulf,Classics,Â£38.35,2,In stock,3,3fb69f34e178d494,https://books.toscrape.com/catalogue/beowulf_126/index.html
+2022-12-20,And Then There Were None,Classics,Â£35.01,2,In stock,3,cfe350b20d23b02b,https://books.toscrape.com/catalogue/and-then-there-were-none_119/index.html
+2022-12-20,The Story of Hong Gildong,Classics,Â£43.19,4,In stock,1,32d035df92ab9080,https://books.toscrape.com/catalogue/the-story-of-hong-gildong_84/index.html
+2022-12-20,The Little Prince,Classics,Â£45.42,2,In stock,1,1aeca7d078d57deb,https://books.toscrape.com/catalogue/the-little-prince_72/index.html
+2022-12-20,Sense and Sensibility,Classics,Â£37.46,1,In stock,1,35e44170702139a4,https://books.toscrape.com/catalogue/sense-and-sensibility_49/index.html
+2022-12-20,Of Mice and Men,Classics,Â£47.11,2,In stock,1,39592d9d72e717c4,https://books.toscrape.com/catalogue/of-mice-and-men_37/index.html
+2022-12-20,Emma,Classics,Â£32.93,2,In stock,1,2e69730561ed70ad,https://books.toscrape.com/catalogue/emma_17/index.html
+2022-12-20,Alice in Wonderland (Alice's Adventures in Wonderland #1),Classics,Â£55.53,1,In stock,1,cd2a2a70dd5d176d,https://books.toscrape.com/catalogue/alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html
+2022-12-20,Sophie's World,Philosophy,Â£15.94,5,In stock,18,6be3beb0793a53e7,https://books.toscrape.com/catalogue/sophies-world_966/index.html
+2022-12-20,The Death of Humanity: and the Case for Life,Philosophy,Â£58.11,4,In stock,16,bd261725b99f5983,https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html
+2022-12-20,The Stranger,Philosophy,Â£17.44,4,In stock,15,f5a92cff83897d48,https://books.toscrape.com/catalogue/the-stranger_861/index.html
+2022-12-20,Proofs of God: Classical Arguments from Tertullian to Barth,Philosophy,Â£54.21,1,In stock,8,d56d0710668bb39c,https://books.toscrape.com/catalogue/proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html
+2022-12-20,Kierkegaard: A Christian Missionary to Christians,Philosophy,Â£47.13,1,In stock,8,0cf57cb49272fd37,https://books.toscrape.com/catalogue/kierkegaard-a-christian-missionary-to-christians_527/index.html
+2022-12-20,"At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",Philosophy,Â£29.93,5,In stock,7,6b52904b2ab91bf6,https://books.toscrape.com/catalogue/at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html
+2022-12-20,Critique of Pure Reason,Philosophy,Â£20.75,1,In stock,5,429b4a811bef386c,https://books.toscrape.com/catalogue/critique-of-pure-reason_366/index.html
+2022-12-20,"Run, Spot, Run: The Ethics of Keeping Pets",Philosophy,Â£20.02,1,In stock,2,b0e479be03911916,https://books.toscrape.com/catalogue/run-spot-run-the-ethics-of-keeping-pets_106/index.html
+2022-12-20,The Nicomachean Ethics,Philosophy,Â£36.34,1,In stock,1,5c10b64db3e4f228,https://books.toscrape.com/catalogue/the-nicomachean-ethics_75/index.html
+2022-12-20,Meditations,Philosophy,Â£25.89,2,In stock,1,4f19709e47883df5,https://books.toscrape.com/catalogue/meditations_33/index.html
+2022-12-20,Beyond Good and Evil,Philosophy,Â£43.38,1,In stock,1,08672cd59171d5e4,https://books.toscrape.com/catalogue/beyond-good-and-evil_6/index.html
+2022-12-20,Chase Me (Paris Nights #2),Romance,Â£25.27,5,In stock,19,c2e46a2ee3b4a322,https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+2022-12-20,Black Dust,Romance,Â£34.53,5,In stock,19,00bfed9e18bb36f3,https://books.toscrape.com/catalogue/black-dust_976/index.html
+2022-12-20,Her Backup Boyfriend (The Sorensen Family #1),Romance,Â£33.97,1,In stock,16,2a97cffe61c3c4c7,https://books.toscrape.com/catalogue/her-backup-boyfriend-the-sorensen-family-1_896/index.html
+2022-12-20,First and First (Five Boroughs #3),Romance,Â£15.97,4,In stock,16,9e28048cea8d41f7,https://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html
+2022-12-20,Fifty Shades Darker (Fifty Shades #2),Romance,Â£21.96,1,In stock,16,7add3f8e49ec0826,https://books.toscrape.com/catalogue/fifty-shades-darker-fifty-shades-2_892/index.html
+2022-12-20,The Wedding Dress,Romance,Â£24.12,1,In stock,15,623e1a180426039b,https://books.toscrape.com/catalogue/the-wedding-dress_864/index.html
+2022-12-20,Suddenly in Love (Lake Haven #1),Romance,Â£55.99,2,In stock,15,203b7f94b7d6115f,https://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html
+2022-12-20,Something More Than This,Romance,Â£16.24,4,In stock,15,ca71e72655bece85,https://books.toscrape.com/catalogue/something-more-than-this_834/index.html
+2022-12-20,Doing It Over (Most Likely To #1),Romance,Â£35.61,3,In stock,15,3a11bb962ff45b78,https://books.toscrape.com/catalogue/doing-it-over-most-likely-to-1_802/index.html
+2022-12-20,The Wedding Pact (The O'Malleys #2),Romance,Â£32.61,3,In stock,14,c5cb9f885d8b3621,https://books.toscrape.com/catalogue/the-wedding-pact-the-omalleys-2_767/index.html
+2022-12-20,Hold Your Breath (Search and Rescue #1),Romance,Â£28.82,1,In stock,14,0b165bd4b9f42fd5,https://books.toscrape.com/catalogue/hold-your-breath-search-and-rescue-1_700/index.html
+2022-12-20,Dirty (Dive Bar #1),Romance,Â£40.83,4,In stock,12,df7e628bad5782b4,https://books.toscrape.com/catalogue/dirty-dive-bar-1_615/index.html
+2022-12-20,Take Me Home Tonight (Rock Star Romance #3),Romance,Â£53.98,3,In stock,11,cf62fa272b5f0fa3,https://books.toscrape.com/catalogue/take-me-home-tonight-rock-star-romance-3_605/index.html
+2022-12-20,Off the Hook (Fishing for Trouble #1),Romance,Â£47.67,3,In stock,11,b783ce08802cd1d1,https://books.toscrape.com/catalogue/off-the-hook-fishing-for-trouble-1_601/index.html
+2022-12-20,A Gentleman's Position (Society of Gentlemen #3),Romance,Â£14.75,5,In stock,11,40c4bf520c17de54,https://books.toscrape.com/catalogue/a-gentlemans-position-society-of-gentlemen-3_584/index.html
+2022-12-20,"Sit, Stay, Love",Romance,Â£20.90,3,In stock,7,bd087cf6a846db75,https://books.toscrape.com/catalogue/sit-stay-love_486/index.html
+2022-12-20,A Girl's Guide to Moving On (New Beginnings #2),Romance,Â£31.30,1,In stock,5,cf3b86489890b9f2,https://books.toscrape.com/catalogue/a-girls-guide-to-moving-on-new-beginnings-2_359/index.html
+2022-12-20,The Perfect Play (Play by Play #1),Romance,Â£59.99,3,In stock,4,9cc207168a03470d,https://books.toscrape.com/catalogue/the-perfect-play-play-by-play-1_352/index.html
+2022-12-20,Dark Lover (Black Dagger Brotherhood #1),Romance,Â£12.87,1,In stock,4,2b69d289279aabfd,https://books.toscrape.com/catalogue/dark-lover-black-dagger-brotherhood-1_319/index.html
+2022-12-20,Changing the Game (Play by Play #2),Romance,Â£13.38,3,In stock,4,aaebac5fda798b1b,https://books.toscrape.com/catalogue/changing-the-game-play-by-play-2_317/index.html
+2022-12-20,A Walk to Remember,Romance,Â£56.43,1,In stock,4,aead11697d14ea36,https://books.toscrape.com/catalogue/a-walk-to-remember_312/index.html
+2022-12-20,The Purest Hook (Second Circle Tattoos #3),Romance,Â£12.25,1,In stock,3,969f6c7e86554814,https://books.toscrape.com/catalogue/the-purest-hook-second-circle-tattoos-3_271/index.html
+2022-12-20,The Obsession,Romance,Â£45.43,1,In stock,3,ee441c8e027caa66,https://books.toscrape.com/catalogue/the-obsession_268/index.html
+2022-12-20,Reservations for Two,Romance,Â£11.10,3,In stock,3,ecdf73ee66c33b17,https://books.toscrape.com/catalogue/reservations-for-two_211/index.html
+2022-12-20,Best of My Love (Fool's Gold #20),Romance,Â£27.41,2,In stock,3,67dea6c75d6a1075,https://books.toscrape.com/catalogue/best-of-my-love-fools-gold-20_127/index.html
+2022-12-20,Where Lightning Strikes (Bleeding Stars #3),Romance,Â£39.77,3,In stock,1,def389ddfda6991b,https://books.toscrape.com/catalogue/where-lightning-strikes-bleeding-stars-3_96/index.html
+2022-12-20,This One Moment (Pushing Limits #1),Romance,Â£48.71,1,In stock,1,d6d98d3508c30f57,https://books.toscrape.com/catalogue/this-one-moment-pushing-limits-1_88/index.html
+2022-12-20,"Rhythm, Chord & Malykhin",Romance,Â£28.34,2,In stock,1,9efb397067eb7e8a,https://books.toscrape.com/catalogue/rhythm-chord-malykhin_47/index.html
+2022-12-20,My Perfect Mistake (Over the Top #1),Romance,Â£38.92,2,In stock,1,fd78f89878479f56,https://books.toscrape.com/catalogue/my-perfect-mistake-over-the-top-1_35/index.html
+2022-12-20,Listen to Me (Fusion #1),Romance,Â£58.99,3,In stock,1,6e712ea24e77bd96,https://books.toscrape.com/catalogue/listen-to-me-fusion-1_29/index.html
+2022-12-20,Imperfect Harmony,Romance,Â£34.74,4,In stock,1,f28f7299d38c0932,https://books.toscrape.com/catalogue/imperfect-harmony_26/index.html
+2022-12-20,Fighting Fate (Fighting #6),Romance,Â£39.24,3,In stock,1,6390772a3094939d,https://books.toscrape.com/catalogue/fighting-fate-fighting-6_18/index.html
+2022-12-20,Deep Under (Walker Security #1),Romance,Â£47.09,5,In stock,1,0072b94dfa30608e,https://books.toscrape.com/catalogue/deep-under-walker-security-1_15/index.html
+2022-12-20,Charity's Cross (Charles Towne Belles #4),Romance,Â£41.24,1,In stock,1,a96404cb928895f3,https://books.toscrape.com/catalogue/charitys-cross-charles-towne-belles-4_12/index.html
+2022-12-20,Bounty (Colorado Mountain #7),Romance,Â£37.26,4,In stock,1,abc0b15f2c907ff0,https://books.toscrape.com/catalogue/bounty-colorado-mountain-7_9/index.html
+2022-12-20,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,Womens Fiction,Â£57.36,4,In stock,15,fd8585283fc7d2d7,https://books.toscrape.com/catalogue/i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html
+2022-12-20,Will You Won't You Want Me?,Womens Fiction,Â£13.86,3,In stock,12,077b635ff2afc578,https://books.toscrape.com/catalogue/will-you-wont-you-want-me_644/index.html
+2022-12-20,Keep Me Posted,Womens Fiction,Â£20.46,4,In stock,11,20dc4f1ac5d4fd9c,https://books.toscrape.com/catalogue/keep-me-posted_594/index.html
+2022-12-20,Grey (Fifty Shades #4),Womens Fiction,Â£48.49,4,In stock,11,b5953ca1f8a0b8d7,https://books.toscrape.com/catalogue/grey-fifty-shades-4_592/index.html
+2022-12-20,Meternity,Womens Fiction,Â£43.58,3,In stock,7,725cd8d23d78cdca,https://books.toscrape.com/catalogue/meternity_478/index.html
+2022-12-20,Some Women,Womens Fiction,Â£13.73,5,In stock,4,31f5bbf4974d29c9,https://books.toscrape.com/catalogue/some-women_341/index.html
+2022-12-20,Shopaholic Ties the Knot (Shopaholic #3),Womens Fiction,Â£48.39,5,In stock,4,38199c5d7da0c0ef,https://books.toscrape.com/catalogue/shopaholic-ties-the-knot-shopaholic-3_340/index.html
+2022-12-20,Can You Keep a Secret?,Womens Fiction,Â£21.94,1,In stock,4,0812f54c93d726ce,https://books.toscrape.com/catalogue/can-you-keep-a-secret_315/index.html
+2022-12-20,Twenties Girl,Womens Fiction,Â£42.80,2,In stock,3,8ebad30219b8679c,https://books.toscrape.com/catalogue/twenties-girl_292/index.html
+2022-12-20,The Undomestic Goddess,Womens Fiction,Â£45.75,4,In stock,3,813cff2aefa5d1f0,https://books.toscrape.com/catalogue/the-undomestic-goddess_286/index.html
+2022-12-20,The Nanny Diaries (Nanny #1),Womens Fiction,Â£52.53,5,In stock,3,6263c1d2997b8ce0,https://books.toscrape.com/catalogue/the-nanny-diaries-nanny-1_265/index.html
+2022-12-20,The Devil Wears Prada (The Devil Wears Prada #1),Womens Fiction,Â£44.29,1,In stock,3,a6ab0cb7106a67f2,https://books.toscrape.com/catalogue/the-devil-wears-prada-the-devil-wears-prada-1_243/index.html
+2022-12-20,Something Borrowed (Darcy & Rachel #1),Womens Fiction,Â£48.96,5,In stock,3,ac27ab4bcd9c492e,https://books.toscrape.com/catalogue/something-borrowed-darcy-rachel-1_224/index.html
+2022-12-20,Something Blue (Darcy & Rachel #2),Womens Fiction,Â£54.62,1,In stock,3,3fc9d51d1c4d6ba7,https://books.toscrape.com/catalogue/something-blue-darcy-rachel-2_223/index.html
+2022-12-20,I've Got Your Number,Womens Fiction,Â£19.69,1,In stock,3,6b32b561dab8036c,https://books.toscrape.com/catalogue/ive-got-your-number_173/index.html
+2022-12-20,The Edge of Reason (Bridget Jones #2),Womens Fiction,Â£19.18,4,In stock,1,29fc016c459aeb14,https://books.toscrape.com/catalogue/the-edge-of-reason-bridget-jones-2_63/index.html
+2022-12-20,Bridget Jones's Diary (Bridget Jones #1),Womens Fiction,Â£29.82,1,In stock,1,a2b4b685dfa94733,https://books.toscrape.com/catalogue/bridget-joness-diary-bridget-jones-1_10/index.html
+2022-12-20,Soumission,Fiction,Â£50.10,1,In stock,20,6957f44c3847a760,https://books.toscrape.com/catalogue/soumission_998/index.html
+2022-12-20,Private Paris (Private #10),Fiction,Â£47.61,5,In stock,17,b12b89017878a60d,https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html
+2022-12-20,"We Love You, Charlie Freeman",Fiction,Â£50.27,5,In stock,16,8d455c7539795d2a,https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html
+2022-12-20,Thirst,Fiction,Â£17.27,5,In stock,16,709822d0b5bcb7f4,https://books.toscrape.com/catalogue/thirst_946/index.html
+2022-12-20,The Murder That Never Was (Forensic Instincts #5),Fiction,Â£54.11,3,In stock,16,d01ac97e2b8947c2,https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html
+2022-12-20,Tuesday Nights in 1980,Fiction,Â£21.04,2,In stock,15,b8736690cf263a3c,https://books.toscrape.com/catalogue/tuesday-nights-in-1980_870/index.html
+2022-12-20,The Vacationers,Fiction,Â£42.15,4,In stock,15,fd3a622648667296,https://books.toscrape.com/catalogue/the-vacationers_863/index.html
+2022-12-20,The Regional Office Is Under Attack!,Fiction,Â£51.36,5,In stock,15,0651062381f0636a,https://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html
+2022-12-20,Finders Keepers (Bill Hodges Trilogy #2),Fiction,Â£53.53,5,In stock,15,edb3097e71330040,https://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html
+2022-12-20,The Time Keeper,Fiction,Â£27.88,5,In stock,14,e9906e2f0d189745,https://books.toscrape.com/catalogue/the-time-keeper_766/index.html
+2022-12-20,The Testament of Mary,Fiction,Â£52.67,4,In stock,14,081305e6df719dff,https://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html
+2022-12-20,The First Hostage (J.B. Collins #2),Fiction,Â£25.85,3,In stock,14,a86972014275e072,https://books.toscrape.com/catalogue/the-first-hostage-jb-collins-2_749/index.html
+2022-12-20,Take Me with You,Fiction,Â£45.21,3,In stock,14,2c04320e110a14a3,https://books.toscrape.com/catalogue/take-me-with-you_741/index.html
+2022-12-20,Still Life with Bread Crumbs,Fiction,Â£26.41,3,In stock,14,fe44cc816576c652,https://books.toscrape.com/catalogue/still-life-with-bread-crumbs_738/index.html
+2022-12-20,Shtum,Fiction,Â£55.84,4,In stock,14,830fb3967c74866d,https://books.toscrape.com/catalogue/shtum_733/index.html
+2022-12-20,My Name Is Lucy Barton,Fiction,Â£41.56,1,In stock,14,727bf2b86b19ad88,https://books.toscrape.com/catalogue/my-name-is-lucy-barton_720/index.html
+2022-12-20,My Mrs. Brown,Fiction,Â£24.48,3,In stock,14,cc82685d9f49bc2c,https://books.toscrape.com/catalogue/my-mrs-brown_719/index.html
+2022-12-20,Mr. Mercedes (Bill Hodges Trilogy #1),Fiction,Â£28.90,1,In stock,14,caa2e5b3fb1b2d4c,https://books.toscrape.com/catalogue/mr-mercedes-bill-hodges-trilogy-1_717/index.html
+2022-12-20,I Am Pilgrim (Pilgrim #1),Fiction,Â£10.60,4,In stock,14,aeff7b87a8e83ebb,https://books.toscrape.com/catalogue/i-am-pilgrim-pilgrim-1_703/index.html
+2022-12-20,Eligible (The Austen Project #4),Fiction,Â£27.09,3,In stock,14,9eaf58b03a2779cc,https://books.toscrape.com/catalogue/eligible-the-austen-project-4_692/index.html
+2022-12-20,Eight Hundred Grapes,Fiction,Â£14.39,4,In stock,14,1d6dd0c87d90fe92,https://books.toscrape.com/catalogue/eight-hundred-grapes_690/index.html
+2022-12-20,Dear Mr. Knightley,Fiction,Â£11.21,5,In stock,14,94a958ea126cdcd5,https://books.toscrape.com/catalogue/dear-mr-knightley_684/index.html
+2022-12-20,Cometh the Hour (The Clifton Chronicles #6),Fiction,Â£25.01,3,In stock,14,28cf0d1c51b491e5,https://books.toscrape.com/catalogue/cometh-the-hour-the-clifton-chronicles-6_681/index.html
+2022-12-20,Balloon Animals,Fiction,Â£17.03,3,In stock,14,9b65f676984c9f0c,https://books.toscrape.com/catalogue/balloon-animals_665/index.html
+2022-12-20,A Man Called Ove,Fiction,Â£39.72,1,In stock,14,8682c03de6a844ff,https://books.toscrape.com/catalogue/a-man-called-ove_653/index.html
+2022-12-20,The Silent Sister (Riley MacPherson #1),Fiction,Â£46.29,5,In stock,12,ce1ae197ada2aec4,https://books.toscrape.com/catalogue/the-silent-sister-riley-macpherson-1_641/index.html
+2022-12-20,The Dinner Party,Fiction,Â£56.54,2,In stock,12,c6ca293d4810e0d5,https://books.toscrape.com/catalogue/the-dinner-party_635/index.html
+2022-12-20,The Improbability of Love,Fiction,Â£59.45,1,In stock,11,437d8dea9272d0a9,https://books.toscrape.com/catalogue/the-improbability-of-love_607/index.html
+2022-12-20,Mothering Sunday,Fiction,Â£13.34,2,In stock,11,47e1b2d43f709995,https://books.toscrape.com/catalogue/mothering-sunday_600/index.html
+2022-12-20,Lies and Other Acts of Love,Fiction,Â£45.14,1,In stock,11,469508882dfc1991,https://books.toscrape.com/catalogue/lies-and-other-acts-of-love_596/index.html
+2022-12-20,Daredevils,Fiction,Â£16.34,3,In stock,11,f608c903c451f387,https://books.toscrape.com/catalogue/daredevils_590/index.html
+2022-12-20,11/22/63,Fiction,Â£48.48,3,In stock,11,a9d7b75461084a26,https://books.toscrape.com/catalogue/112263_583/index.html
+2022-12-20,The Shack,Fiction,Â£28.03,1,In stock,9,903a9f8090104c2c,https://books.toscrape.com/catalogue/the-shack_576/index.html
+2022-12-20,The High Mountains of Portugal,Fiction,Â£51.15,1,In stock,8,4f283dfcbeccc0d4,https://books.toscrape.com/catalogue/the-high-mountains-of-portugal_547/index.html
+2022-12-20,Miller's Valley,Fiction,Â£58.54,2,In stock,8,bff270fe9c86a5a9,https://books.toscrape.com/catalogue/millers-valley_534/index.html
+2022-12-20,Hystopia: A Novel,Fiction,Â£21.96,4,In stock,8,0bfdef63285d3019,https://books.toscrape.com/catalogue/hystopia-a-novel_523/index.html
+2022-12-20,The Bourne Identity (Jason Bourne #1),Fiction,Â£42.78,4,In stock,7,d250657f0ebc5d73,https://books.toscrape.com/catalogue/the-bourne-identity-jason-bourne-1_492/index.html
+2022-12-20,Sister Dear,Fiction,Â£40.20,4,In stock,7,7ffebdd1d5148aef,https://books.toscrape.com/catalogue/sister-dear_485/index.html
+2022-12-20,Memoirs of a Geisha,Fiction,Â£49.67,3,In stock,7,dac4b5847454fd9b,https://books.toscrape.com/catalogue/memoirs-of-a-geisha_477/index.html
+2022-12-20,Me Before You (Me Before You #1),Fiction,Â£19.02,1,In stock,6,7a2b51f69e81c722,https://books.toscrape.com/catalogue/me-before-you-me-before-you-1_434/index.html
+2022-12-20,Deception Point,Fiction,Â£40.32,4,In stock,6,4e3b183180e2a992,https://books.toscrape.com/catalogue/deception-point_426/index.html
+2022-12-20,The Little Paris Bookshop,Fiction,Â£24.73,3,In stock,5,dfd9ff1f343cdaff,https://books.toscrape.com/catalogue/the-little-paris-bookshop_407/index.html
+2022-12-20,The Firm,Fiction,Â£45.56,3,In stock,5,ad84f18659e6bfe2,https://books.toscrape.com/catalogue/the-firm_404/index.html
+2022-12-20,The Expatriates,Fiction,Â£44.58,2,In stock,5,fe7210553d56c097,https://books.toscrape.com/catalogue/the-expatriates_401/index.html
+2022-12-20,Siddhartha,Fiction,Â£34.22,5,In stock,5,84bb29c53592ac40,https://books.toscrape.com/catalogue/siddhartha_393/index.html
+2022-12-20,Last One Home (New Beginnings #1),Fiction,Â£59.98,3,In stock,5,07e6810fd3236bda,https://books.toscrape.com/catalogue/last-one-home-new-beginnings-1_383/index.html
+2022-12-20,Digital Fortress,Fiction,Â£58.00,5,In stock,5,94bb629a3f6dd00b,https://books.toscrape.com/catalogue/digital-fortress_369/index.html
+2022-12-20,Atlas Shrugged,Fiction,Â£26.58,5,In stock,4,78a4ac98191ac675,https://books.toscrape.com/catalogue/atlas-shrugged_314/index.html
+2022-12-20,Three-Martini Lunch,Fiction,Â£23.21,3,In stock,3,57f755143ee96fd4,https://books.toscrape.com/catalogue/three-martini-lunch_290/index.html
+2022-12-20,The Nightingale,Fiction,Â£26.26,4,In stock,3,29d6d87f3418638b,https://books.toscrape.com/catalogue/the-nightingale_267/index.html
+2022-12-20,The Infinities,Fiction,Â£27.41,1,In stock,3,554e9e2d532b3a87,https://books.toscrape.com/catalogue/the-infinities_257/index.html
+2022-12-20,The Husband's Secret,Fiction,Â£52.51,5,In stock,3,ff6bb30dd0c482a6,https://books.toscrape.com/catalogue/the-husbands-secret_256/index.html
+2022-12-20,The Da Vinci Code (Robert Langdon #2),Fiction,Â£22.96,2,In stock,3,dabf11918b48b40c,https://books.toscrape.com/catalogue/the-da-vinci-code-robert-langdon-2_240/index.html
+2022-12-20,The Art of Fielding,Fiction,Â£22.10,1,In stock,3,2858ac90c4758e1f,https://books.toscrape.com/catalogue/the-art-of-fielding_228/index.html
+2022-12-20,Lila (Gilead #3),Fiction,Â£12.47,3,In stock,3,4ef75307fb64e2ad,https://books.toscrape.com/catalogue/lila-gilead-3_190/index.html
+2022-12-20,Jurassic Park (Jurassic Park #1),Fiction,Â£44.97,1,In stock,3,a0dd11f6abc421ec,https://books.toscrape.com/catalogue/jurassic-park-jurassic-park-1_180/index.html
+2022-12-20,Inferno (Robert Langdon #4),Fiction,Â£41.00,5,In stock,3,6c4646d90b60a56c,https://books.toscrape.com/catalogue/inferno-robert-langdon-4_176/index.html
+2022-12-20,Crazy Rich Asians (Crazy Rich Asians #1),Fiction,Â£49.13,5,In stock,3,c9782ad2a0ed9331,https://books.toscrape.com/catalogue/crazy-rich-asians-crazy-rich-asians-1_143/index.html
+2022-12-20,Big Little Lies,Fiction,Â£22.11,1,In stock,3,d3f9c4539c0caa64,https://books.toscrape.com/catalogue/big-little-lies_129/index.html
+2022-12-20,The Course of Love,Fiction,Â£16.78,3,In stock,2,f3c76b53b239f511,https://books.toscrape.com/catalogue/the-course-of-love_109/index.html
+2022-12-20,When I'm Gone,Fiction,Â£51.96,3,In stock,1,c5f91eb481427dc5,https://books.toscrape.com/catalogue/when-im-gone_95/index.html
+2022-12-20,The Silent Wife,Fiction,Â£12.34,5,In stock,1,b78deb463531d078,https://books.toscrape.com/catalogue/the-silent-wife_83/index.html
+2022-12-20,The Bette Davis Club,Fiction,Â£30.66,3,In stock,1,dfb0849016bc122c,https://books.toscrape.com/catalogue/the-bette-davis-club_59/index.html
+2022-12-20,Kitchens of the Great Midwest,Fiction,Â£57.20,5,In stock,1,06f6a57a6d532844,https://books.toscrape.com/catalogue/kitchens-of-the-great-midwest_28/index.html
+2022-12-20,Bright Lines,Fiction,Â£39.07,5,In stock,1,230ac636ea0ea415,https://books.toscrape.com/catalogue/bright-lines_11/index.html
+2022-12-20,Birdsong: A Story in Pictures,Childrens,Â£54.64,3,In stock,19,9528d0948525bf5f,https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+2022-12-20,The Bear and the Piano,Childrens,Â£36.89,1,In stock,18,9f6568e9c95f60b0,https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
+2022-12-20,The Secret of Dreadwillow Carse,Childrens,Â£56.13,1,In stock,16,b5ea0b5dabed25a8,https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html
+2022-12-20,The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,Childrens,Â£58.08,4,In stock,15,37c0cb19713d8dda,https://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html
+2022-12-20,Little Red,Childrens,Â£13.47,3,In stock,15,4aa03792b50f0b22,https://books.toscrape.com/catalogue/little-red_817/index.html
+2022-12-20,Walt Disney's Alice in Wonderland,Childrens,Â£12.96,5,In stock,14,6a31307a81e8f3a8,https://books.toscrape.com/catalogue/walt-disneys-alice-in-wonderland_777/index.html
+2022-12-20,Twenty Yawns,Childrens,Â£22.08,2,In stock,14,1d6443ffba9dfd80,https://books.toscrape.com/catalogue/twenty-yawns_773/index.html
+2022-12-20,Rain Fish,Childrens,Â£23.57,3,In stock,14,a6454e329f872b78,https://books.toscrape.com/catalogue/rain-fish_728/index.html
+2022-12-20,Once Was a Time,Childrens,Â£18.28,2,In stock,14,e34efcc824685332,https://books.toscrape.com/catalogue/once-was-a-time_724/index.html
+2022-12-20,Luis Paints the World,Childrens,Â£53.95,3,In stock,14,5b43cae640f2338a,https://books.toscrape.com/catalogue/luis-paints-the-world_714/index.html
+2022-12-20,Nap-a-Roo,Childrens,Â£25.08,1,In stock,9,913e7109cec0cb4c,https://books.toscrape.com/catalogue/nap-a-roo_567/index.html
+2022-12-20,The Whale,Childrens,Â£35.96,4,In stock,7,0ff9d10864db8364,https://books.toscrape.com/catalogue/the-whale_501/index.html
+2022-12-20,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",Childrens,Â£52.87,3,In stock,7,9639e89d20228e6e,https://books.toscrape.com/catalogue/shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html
+2022-12-20,Raymie Nightingale,Childrens,Â£34.41,2,In stock,7,31c56c4d0fe19340,https://books.toscrape.com/catalogue/raymie-nightingale_482/index.html
+2022-12-20,Playing from the Heart,Childrens,Â£32.38,1,In stock,7,68008abf6409dfde,https://books.toscrape.com/catalogue/playing-from-the-heart_481/index.html
+2022-12-20,Maybe Something Beautiful: How Art Transformed a Neighborhood,Childrens,Â£22.54,1,In stock,5,81c68492ccd72941,https://books.toscrape.com/catalogue/maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html
+2022-12-20,The Wild Robot,Childrens,Â£56.07,3,In stock,3,75fed6a47f69859d,https://books.toscrape.com/catalogue/the-wild-robot_288/index.html
+2022-12-20,The Thing About Jellyfish,Childrens,Â£48.77,1,In stock,3,3d15714d4d3d15dd,https://books.toscrape.com/catalogue/the-thing-about-jellyfish_283/index.html
+2022-12-20,The Lonely Ones,Childrens,Â£43.59,5,In stock,3,cf2f27fdf94ba20e,https://books.toscrape.com/catalogue/the-lonely-ones_261/index.html
+2022-12-20,The Day the Crayons Came Home (Crayons),Childrens,Â£26.33,5,In stock,3,b22362b434e8ee62,https://books.toscrape.com/catalogue/the-day-the-crayons-came-home-crayons_241/index.html
+2022-12-20,The Cat in the Hat (Beginner Books B-1),Childrens,Â£16.26,2,In stock,3,b7f475238ed50429,https://books.toscrape.com/catalogue/the-cat-in-the-hat-beginner-books-b-1_235/index.html
+2022-12-20,Red: The True Story of Red Riding Hood,Childrens,Â£28.54,3,In stock,3,4c8ece50736f9e88,https://books.toscrape.com/catalogue/red-the-true-story-of-red-riding-hood_210/index.html
+2022-12-20,Horrible Bear!,Childrens,Â£37.52,2,In stock,3,cc1ac978a6835ef6,https://books.toscrape.com/catalogue/horrible-bear_168/index.html
+2022-12-20,Green Eggs and Ham (Beginner Books B-16),Childrens,Â£10.79,4,In stock,3,621e2c310cec8d32,https://books.toscrape.com/catalogue/green-eggs-and-ham-beginner-books-b-16_165/index.html
+2022-12-20,Counting Thyme,Childrens,Â£10.62,1,In stock,3,157f693d9e600ccc,https://books.toscrape.com/catalogue/counting-thyme_142/index.html
+2022-12-20,Are We There Yet?,Childrens,Â£10.66,3,In stock,3,ef9c4f2465513956,https://books.toscrape.com/catalogue/are-we-there-yet_122/index.html
+2022-12-20,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),Childrens,Â£52.88,4,In stock,2,d7b463918d3b8c39,https://books.toscrape.com/catalogue/diary-of-a-minecraft-zombie-book-1-a-scare-of-a-dare-an-unofficial-minecraft-book_99/index.html
+2022-12-20,Matilda,Childrens,Â£28.34,1,In stock,1,1053fb7ee17a1f33,https://books.toscrape.com/catalogue/matilda_32/index.html
+2022-12-20,Charlie and the Chocolate Factory (Charlie Bucket #1),Childrens,Â£22.85,3,In stock,1,1774749f2cee292f,https://books.toscrape.com/catalogue/charlie-and-the-chocolate-factory-charlie-bucket-1_13/index.html
+2022-12-20,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",Religion,Â£37.97,2,In stock,16,fce19f9b4a943f22,https://books.toscrape.com/catalogue/dont-be-a-jerk-and-other-practical-advice-from-dogen-japans-greatest-zen-master_890/index.html
+2022-12-20,You Are What You Love: The Spiritual Power of Habit,Religion,Â£21.87,4,In stock,15,796c87ddbbaaf8c5,https://books.toscrape.com/catalogue/you-are-what-you-love-the-spiritual-power-of-habit_872/index.html
+2022-12-20,God: The Most Unpleasant Character in All Fiction,Religion,Â£30.03,5,In stock,14,eec424a84c9e4c68,https://books.toscrape.com/catalogue/god-the-most-unpleasant-character-in-all-fiction_697/index.html
+2022-12-20,The Book of Mormon,Religion,Â£24.57,3,In stock,9,3f25a2fedae191cc,https://books.toscrape.com/catalogue/the-book-of-mormon_571/index.html
+2022-12-20,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Religion,Â£27.62,1,In stock,4,d12ca4020c2f602e,https://books.toscrape.com/catalogue/a-history-of-god-the-4000-year-quest-of-judaism-christianity-and-islam_310/index.html
+2022-12-20,The Bhagavad Gita,Religion,Â£57.49,3,In stock,1,f3a0b8c835129558,https://books.toscrape.com/catalogue/the-bhagavad-gita_60/index.html
+2022-12-20,Choosing Our Religion: The Spiritual Lives of America's Nones,Religion,Â£28.42,4,In stock,1,a812f6969ddf3e39,https://books.toscrape.com/catalogue/choosing-our-religion-the-spiritual-lives-of-americas-nones_14/index.html
+2022-12-20,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,Nonfiction,Â£40.30,5,In stock,18,4c28def39d850cdf,https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+2022-12-20,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Nonfiction,Â£31.05,3,In stock,18,3c039985229453bf,https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+2022-12-20,Reasons to Stay Alive,Nonfiction,Â£26.41,2,In stock,17,c8f7f0cb1abb9cac,https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html
+2022-12-20,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,Nonfiction,Â£23.11,5,In stock,17,c27f6e1f185b0383,https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+2022-12-20,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Nonfiction,Â£44.18,4,In stock,16,d170b5a0da46380e,https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+2022-12-20,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,Nonfiction,Â£31.12,3,In stock,16,7858914fad68493c,https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+2022-12-20,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Nonfiction,Â£16.77,3,In stock,16,0da9aa9d24677fc0,https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html
+2022-12-20,The Gutsy Girl: Escapades for Your Life of Epic Adventure,Nonfiction,Â£37.13,1,In stock,16,acd86a5426e21ca0,https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html
+2022-12-20,The Electric Pencil: Drawings from Inside State Hospital No. 3,Nonfiction,Â£56.06,1,In stock,16,a30b270e25489e5c,https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html
+2022-12-20,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,Nonfiction,Â£41.83,4,In stock,16,87b0615b6e1f4d7b,https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html
+2022-12-20,Reskilling America: Learning to Labor in the Twenty-First Century,Nonfiction,Â£19.83,2,In stock,16,d7310206583a54b6,https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html
+2022-12-20,In the Country We Love: My Family Divided,Nonfiction,Â£22.00,4,In stock,16,b136b1b180ca753a,https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html
+2022-12-20,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Nonfiction,Â£54.35,2,In stock,16,311c0dd0e354a33e,https://books.toscrape.com/catalogue/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html
+2022-12-20,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,Nonfiction,Â£29.14,5,In stock,16,bee3672891cca906,https://books.toscrape.com/catalogue/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html
+2022-12-20,Algorithms to Live By: The Computer Science of Human Decisions,Nonfiction,Â£30.81,1,In stock,16,38d45839cb1c83c1,https://books.toscrape.com/catalogue/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html
+2022-12-20,The Power of Now: A Guide to Spiritual Enlightenment,Nonfiction,Â£43.54,2,In stock,15,8ec14b1576cb7cb5,https://books.toscrape.com/catalogue/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html
+2022-12-20,The Omnivore's Dilemma: A Natural History of Four Meals,Nonfiction,Â£38.21,2,In stock,15,209adad1015af86f,https://books.toscrape.com/catalogue/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html
+2022-12-20,The Genius of Birds,Nonfiction,Â£17.24,1,In stock,15,42d0d7c92b75fc1c,https://books.toscrape.com/catalogue/the-genius-of-birds_843/index.html
+2022-12-20,The Artist's Way: A Spiritual Path to Higher Creativity,Nonfiction,Â£38.49,5,In stock,15,dd047728de72ad62,https://books.toscrape.com/catalogue/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html
+2022-12-20,So You've Been Publicly Shamed,Nonfiction,Â£12.23,2,In stock,15,1b33663ad7b95fd8,https://books.toscrape.com/catalogue/so-youve-been-publicly-shamed_832/index.html
+2022-12-20,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Nonfiction,Â£19.43,3,In stock,15,3b9a3b4624b7fd6d,https://books.toscrape.com/catalogue/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead_799/index.html
+2022-12-20,Big Magic: Creative Living Beyond Fear,Nonfiction,Â£30.80,3,In stock,15,1f329c2e7d7de8bd,https://books.toscrape.com/catalogue/big-magic-creative-living-beyond-fear_796/index.html
+2022-12-20,Becoming Wise: An Inquiry into the Mystery and Art of Living,Nonfiction,Â£27.43,2,In stock,15,919e7cb2269a25d2,https://books.toscrape.com/catalogue/becoming-wise-an-inquiry-into-the-mystery-and-art-of-living_795/index.html
+2022-12-20,Agnostic: A Spirited Manifesto,Nonfiction,Â£12.51,5,In stock,15,d195e7f4ed697350,https://books.toscrape.com/catalogue/agnostic-a-spirited-manifesto_786/index.html
+2022-12-20,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,Nonfiction,Â£38.20,4,In stock,14,44a10f1ac8ce822e,https://books.toscrape.com/catalogue/whole-lotta-creativity-going-on-60-fun-and-unusual-exercises-to-awaken-and-strengthen-your-creativity_780/index.html
+2022-12-20,What's It Like in Space?: Stories from Astronauts Who've Been There,Nonfiction,Â£19.60,2,In stock,14,6fd646a334e6e133,https://books.toscrape.com/catalogue/whats-it-like-in-space-stories-from-astronauts-whove-been-there_779/index.html
+2022-12-20,The Year of Magical Thinking,Nonfiction,Â£43.04,2,In stock,14,34c0d7c4ee5650af,https://books.toscrape.com/catalogue/the-year-of-magical-thinking_770/index.html
+2022-12-20,The Literature Book (Big Ideas Simply Explained),Nonfiction,Â£17.43,3,In stock,14,4881cc53f6c8892f,https://books.toscrape.com/catalogue/the-literature-book-big-ideas-simply-explained_755/index.html
+2022-12-20,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts,Nonfiction,Â£15.77,1,In stock,14,923831a05c9f91f7,https://books.toscrape.com/catalogue/the-bad-ass-librarians-of-timbuktu-and-their-race-to-save-the-worlds-most-precious-manuscripts_745/index.html
+2022-12-20,Swell: A Year of Waves,Nonfiction,Â£45.58,1,In stock,14,4c8b7540409da4ac,https://books.toscrape.com/catalogue/swell-a-year-of-waves_740/index.html
+2022-12-20,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,Nonfiction,Â£21.95,2,In stock,14,132ec5e8c984adef,https://books.toscrape.com/catalogue/no-dream-is-too-high-life-lessons-from-a-man-who-walked-on-the-moon_722/index.html
+2022-12-20,Looking for Lovely: Collecting the Moments that Matter,Nonfiction,Â£29.14,5,In stock,14,24af96df0bafb925,https://books.toscrape.com/catalogue/looking-for-lovely-collecting-the-moments-that-matter_710/index.html
+2022-12-20,Let It Out: A Journey Through Journaling,Nonfiction,Â£26.79,5,In stock,14,1174156c4a0eccaa,https://books.toscrape.com/catalogue/let-it-out-a-journey-through-journaling_708/index.html
+2022-12-20,Hamilton: The Revolution,Nonfiction,Â£58.79,3,In stock,14,afa829857f82f99e,https://books.toscrape.com/catalogue/hamilton-the-revolution_699/index.html
+2022-12-20,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",Nonfiction,Â£15.06,4,In stock,14,ac4dde0d1be05de0,https://books.toscrape.com/catalogue/far-away-places-on-the-brink-of-change-seven-continents-twenty-five-years_694/index.html
+2022-12-20,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",Nonfiction,Â£51.75,5,In stock,14,a01f6d368ef64dc5,https://books.toscrape.com/catalogue/eaternity-more-than-150-deliciously-easy-vegan-recipes-for-a-long-healthy-satisfied-joyful-life_689/index.html
+2022-12-20,Buying In: The Secret Dialogue Between What We Buy and Who We Are,Nonfiction,Â£37.80,4,In stock,14,16ef91b9d827859c,https://books.toscrape.com/catalogue/buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html
+2022-12-20,Brain on Fire: My Month of Madness,Nonfiction,Â£49.32,5,In stock,14,a80f66b254fe9eb3,https://books.toscrape.com/catalogue/brain-on-fire-my-month-of-madness_669/index.html
+2022-12-20,Abstract City,Nonfiction,Â£56.37,5,In stock,14,cf1aa2fc02a7d1e0,https://books.toscrape.com/catalogue/abstract-city_658/index.html
+2022-12-20,13 Hours: The Inside Account of What Really Happened In Benghazi,Nonfiction,Â£27.06,1,In stock,13,4be9d1910f8a4e80,https://books.toscrape.com/catalogue/13-hours-the-inside-account-of-what-really-happened-in-benghazi_645/index.html
+2022-12-20,The Lonely City: Adventures in the Art of Being Alone,Nonfiction,Â£33.26,2,In stock,12,582a21a1dbbef3cf,https://books.toscrape.com/catalogue/the-lonely-city-adventures-in-the-art-of-being-alone_639/index.html
+2022-12-20,The Diary of a Young Girl,Nonfiction,Â£59.90,3,In stock,12,54fc03f1e1d355db,https://books.toscrape.com/catalogue/the-diary-of-a-young-girl_634/index.html
+2022-12-20,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,Nonfiction,Â£21.21,3,In stock,12,f40fea200e0c644f,https://books.toscrape.com/catalogue/snatched-how-a-drug-queen-went-undercover-for-the-dea-and-was-kidnapped-by-colombian-guerillas_631/index.html
+2022-12-20,Furiously Happy: A Funny Book About Horrible Things,Nonfiction,Â£41.46,4,In stock,12,c6a29d6df8de968c,https://books.toscrape.com/catalogue/furiously-happy-a-funny-book-about-horrible-things_619/index.html
+2022-12-20,"The Sleep Revolution: Transforming Your Life, One Night at a Time",Nonfiction,Â£11.68,4,In stock,11,985991708c47003e,https://books.toscrape.com/catalogue/the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html
+2022-12-20,"Mother, Can You Not?",Nonfiction,Â£16.89,5,In stock,11,28b2df9fadc9f07e,https://books.toscrape.com/catalogue/mother-can-you-not_599/index.html
+2022-12-20,A Mother's Reckoning: Living in the Aftermath of Tragedy,Nonfiction,Â£19.53,3,In stock,11,2b69dec0193511d9,https://books.toscrape.com/catalogue/a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html
+2022-12-20,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",Nonfiction,Â£24.57,2,In stock,10,34669b2e9d407d3a,https://books.toscrape.com/catalogue/10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html
+2022-12-20,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,Nonfiction,Â£35.92,2,In stock,9,7186241e043de5dc,https://books.toscrape.com/catalogue/chernobyl-012340-the-incredible-true-story-of-the-worlds-worst-nuclear-disaster_560/index.html
+2022-12-20,"Zero to One: Notes on Startups, or How to Build the Future",Nonfiction,Â£34.06,3,In stock,8,e77033ce559947f7,https://books.toscrape.com/catalogue/zero-to-one-notes-on-startups-or-how-to-build-the-future_555/index.html
+2022-12-20,Why Not Me?,Nonfiction,Â£17.76,1,In stock,8,04f6c929888f4f11,https://books.toscrape.com/catalogue/why-not-me_554/index.html
+2022-12-20,When Breath Becomes Air,Nonfiction,Â£39.36,2,In stock,8,b69c852e7e3956af,https://books.toscrape.com/catalogue/when-breath-becomes-air_553/index.html
+2022-12-20,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",Nonfiction,Â£28.45,4,In stock,8,5a0d2e9284004266,https://books.toscrape.com/catalogue/the-midnight-assassin-panic-scandal-and-the-hunt-for-americas-first-serial-killer_549/index.html
+2022-12-20,Smarter Faster Better: The Secrets of Being Productive in Life and Business,Nonfiction,Â£38.89,5,In stock,8,a2475a245c9907c4,https://books.toscrape.com/catalogue/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business_543/index.html
+2022-12-20,Rising Strong,Nonfiction,Â£21.82,3,In stock,8,52fc458ffc756faf,https://books.toscrape.com/catalogue/rising-strong_539/index.html
+2022-12-20,Man's Search for Meaning,Nonfiction,Â£29.48,3,In stock,8,4729afff3bea0f0a,https://books.toscrape.com/catalogue/mans-search-for-meaning_533/index.html
+2022-12-20,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",Nonfiction,Â£25.06,2,In stock,8,4d3a4c7b442a9a4e,https://books.toscrape.com/catalogue/love-that-boy-what-two-presidents-eight-road-trips-and-my-son-taught-me-about-a-parents-expectations_532/index.html
+2022-12-20,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,Nonfiction,Â£12.55,3,In stock,8,044534b0b28b4e87,https://books.toscrape.com/catalogue/living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html
+2022-12-20,I Will Find You,Nonfiction,Â£44.21,1,In stock,8,bbf1ea50be8008ab,https://books.toscrape.com/catalogue/i-will-find-you_524/index.html
+2022-12-20,Brazen: The Courage to Find the You That's Been Hiding,Nonfiction,Â£19.22,2,In stock,8,77e9ea355bd8ae57,https://books.toscrape.com/catalogue/brazen-the-courage-to-find-the-you-thats-been-hiding_514/index.html
+2022-12-20,Between the World and Me,Nonfiction,Â£56.91,4,In stock,8,04e3de7ac35ec5cd,https://books.toscrape.com/catalogue/between-the-world-and-me_513/index.html
+2022-12-20,Being Mortal: Medicine and What Matters in the End,Nonfiction,Â£55.06,4,In stock,8,15ebd83e53d0391b,https://books.toscrape.com/catalogue/being-mortal-medicine-and-what-matters-in-the-end_512/index.html
+2022-12-20,"A Murder Over a Girl: Justice, Gender, Junior High",Nonfiction,Â£13.20,3,In stock,8,fef91502cbacf23a,https://books.toscrape.com/catalogue/a-murder-over-a-girl-justice-gender-junior-high_511/index.html
+2022-12-20,For the Love: Fighting for Grace in a World of Impossible Standards,Nonfiction,Â£45.13,3,In stock,7,2e40333991f56f45,https://books.toscrape.com/catalogue/for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html
+2022-12-20,Finding God in the Ruins: How God Redeems Pain,Nonfiction,Â£46.64,2,In stock,7,4e78f06160b717ac,https://books.toscrape.com/catalogue/finding-god-in-the-ruins-how-god-redeems-pain_466/index.html
+2022-12-20,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Nonfiction,Â£59.45,4,In stock,6,60376aa71be66083,https://books.toscrape.com/catalogue/the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html
+2022-12-20,In Cold Blood,Nonfiction,Â£49.98,4,In stock,6,fe0f34ebed689381,https://books.toscrape.com/catalogue/in-cold-blood_432/index.html
+2022-12-20,"Girl, Interrupted",Nonfiction,Â£42.14,3,In stock,6,384c7d41d5ffe9d1,https://books.toscrape.com/catalogue/girl-interrupted_429/index.html
+2022-12-20,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,Nonfiction,Â£48.67,2,In stock,5,759ee7d059b1beb8,https://books.toscrape.com/catalogue/why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html
+2022-12-20,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,Nonfiction,Â£25.15,4,In stock,5,1dba84766a5e87b8,https://books.toscrape.com/catalogue/talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html
+2022-12-20,My Mother Was Nuts,Nonfiction,Â£31.63,4,In stock,5,a4ce39a3720cd679,https://books.toscrape.com/catalogue/my-mother-was-nuts_388/index.html
+2022-12-20,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",Nonfiction,Â£32.35,3,In stock,5,bcf567421c581f0a,https://books.toscrape.com/catalogue/data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html
+2022-12-20,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,Nonfiction,Â£38.71,3,In stock,4,6a57286a8890d8c5,https://books.toscrape.com/catalogue/the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html
+2022-12-20,The Gunning of America: Business and the Making of American Gun Culture,Nonfiction,Â£16.81,4,In stock,4,45033bdf3d9ed158,https://books.toscrape.com/catalogue/the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html
+2022-12-20,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,Nonfiction,Â£28.23,2,In stock,4,c65ee14957c0fa5c,https://books.toscrape.com/catalogue/the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html
+2022-12-20,God Is Not Great: How Religion Poisons Everything,Nonfiction,Â£27.80,1,In stock,4,ddbc5530d2939d49,https://books.toscrape.com/catalogue/god-is-not-great-how-religion-poisons-everything_323/index.html
+2022-12-20,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,Nonfiction,Â£31.95,3,In stock,3,06bab964fd536971,https://books.toscrape.com/catalogue/we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html
+2022-12-20,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,Nonfiction,Â£50.66,3,In stock,3,52aa3d79b1cee455,https://books.toscrape.com/catalogue/very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html
+2022-12-20,"Unstuffed: Decluttering Your Home, Mind, and Soul",Nonfiction,Â£58.09,1,In stock,3,b830685072fa871f,https://books.toscrape.com/catalogue/unstuffed-decluttering-your-home-mind-and-soul_296/index.html
+2022-12-20,Under the Banner of Heaven: A Story of Violent Faith,Nonfiction,Â£30.00,1,In stock,3,599a4f98bb193368,https://books.toscrape.com/catalogue/under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html
+2022-12-20,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",Nonfiction,Â£53.51,1,In stock,3,2173a2ce35f6ace1,https://books.toscrape.com/catalogue/trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html
+2022-12-20,The Name of God is Mercy,Nonfiction,Â£37.25,2,In stock,3,0baf71623648413a,https://books.toscrape.com/catalogue/the-name-of-god-is-mercy_264/index.html
+2022-12-20,Stiff: The Curious Lives of Human Cadavers,Nonfiction,Â£36.74,3,In stock,3,a11ae5f07572ef49,https://books.toscrape.com/catalogue/stiff-the-curious-lives-of-human-cadavers_226/index.html
+2022-12-20,Spilled Milk: Based on a True Story,Nonfiction,Â£49.51,1,In stock,3,f08667e4c0458f37,https://books.toscrape.com/catalogue/spilled-milk-based-on-a-true-story_225/index.html
+2022-12-20,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",Nonfiction,Â£41.67,4,In stock,3,89cad3f37c9ce226,https://books.toscrape.com/catalogue/rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars_213/index.html
+2022-12-20,Outliers: The Story of Success,Nonfiction,Â£14.16,1,In stock,3,09a7b0b566ad6225,https://books.toscrape.com/catalogue/outliers-the-story-of-success_204/index.html
+2022-12-20,Notes from a Small Island (Notes From a Small Island #1),Nonfiction,Â£40.17,1,In stock,3,cb65e49993db9a93,https://books.toscrape.com/catalogue/notes-from-a-small-island-notes-from-a-small-island-1_200/index.html
+2022-12-20,Night (The Night Trilogy #1),Nonfiction,Â£13.51,1,In stock,3,c4d9fce9eff3b8ba,https://books.toscrape.com/catalogue/night-the-night-trilogy-1_199/index.html
+2022-12-20,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",Nonfiction,Â£57.83,1,In stock,3,7980fa06f2b704d8,https://books.toscrape.com/catalogue/miracles-from-heaven-a-little-girl-her-journey-to-heaven-and-her-amazing-story-of-healing_195/index.html
+2022-12-20,Letter to a Christian Nation,Nonfiction,Â£22.20,1,In stock,3,1de75f05d57bfc10,https://books.toscrape.com/catalogue/letter-to-a-christian-nation_186/index.html
+2022-12-20,Let's Pretend This Never Happened: A Mostly True Memoir,Nonfiction,Â£45.11,1,In stock,3,1246e4ffeb5ac4ea,https://books.toscrape.com/catalogue/lets-pretend-this-never-happened-a-mostly-true-memoir_185/index.html
+2022-12-20,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,Nonfiction,Â£42.38,1,In stock,3,d4a29356fc992879,https://books.toscrape.com/catalogue/its-never-too-late-to-begin-again-discovering-creativity-and-meaning-at-midlife-and-beyond_179/index.html
+2022-12-20,Into the Wild,Nonfiction,Â£56.70,5,In stock,3,a7c3f1010d64799a,https://books.toscrape.com/catalogue/into-the-wild_177/index.html
+2022-12-20,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Nonfiction,Â£28.85,3,In stock,3,d8292cd5f1aca291,https://books.toscrape.com/catalogue/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin_175/index.html
+2022-12-20,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Nonfiction,Â£28.88,2,In stock,3,8010c7c148057fd3,https://books.toscrape.com/catalogue/i-am-malala-the-girl-who-stood-up-for-education-and-was-shot-by-the-taliban_172/index.html
+2022-12-20,Gratitude,Nonfiction,Â£26.66,5,In stock,3,c300cc9326592b65,https://books.toscrape.com/catalogue/gratitude_163/index.html
+2022-12-20,Disrupted: My Misadventure in the Start-Up Bubble,Nonfiction,Â£15.28,5,In stock,3,81372abc86f65c79,https://books.toscrape.com/catalogue/disrupted-my-misadventure-in-the-start-up-bubble_148/index.html
+2022-12-20,Brave Enough,Nonfiction,Â£51.32,5,In stock,3,fd2337c1b73b686e,https://books.toscrape.com/catalogue/brave-enough_135/index.html
+2022-12-20,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Nonfiction,Â£27.35,2,In stock,3,e256de8aa0c2115f,https://books.toscrape.com/catalogue/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen_133/index.html
+2022-12-20,Blink: The Power of Thinking Without Thinking,Nonfiction,Â£21.74,5,In stock,3,0bbc48294707ba96,https://books.toscrape.com/catalogue/blink-the-power-of-thinking-without-thinking_132/index.html
+2022-12-20,Black Flags: The Rise of ISIS,Nonfiction,Â£40.87,1,In stock,3,860318b8e244f39c,https://books.toscrape.com/catalogue/black-flags-the-rise-of-isis_131/index.html
+2022-12-20,Are We Smart Enough to Know How Smart Animals Are?,Nonfiction,Â£56.58,1,In stock,3,da0349a87c8caa2f,https://books.toscrape.com/catalogue/are-we-smart-enough-to-know-how-smart-animals-are_121/index.html
+2022-12-20,A Walk in the Woods: Rediscovering America on the Appalachian Trail,Nonfiction,Â£30.48,4,In stock,3,bcee4f289ff6699c,https://books.toscrape.com/catalogue/a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html
+2022-12-20,"The Suffragettes (Little Black Classics, #96)",Nonfiction,Â£11.89,2,In stock,2,d2185b65af52d68c,https://books.toscrape.com/catalogue/the-suffragettes-little-black-classics-96_112/index.html
+2022-12-20,Kindle Paperwhite User's Guide,Nonfiction,Â£34.00,3,In stock,2,fb495f9f9015a772,https://books.toscrape.com/catalogue/kindle-paperwhite-users-guide_103/index.html
+2022-12-20,H is for Hawk,Nonfiction,Â£57.42,5,In stock,2,b6d3f4f4ee1f6069,https://books.toscrape.com/catalogue/h-is-for-hawk_102/index.html
+2022-12-20,Travels with Charley: In Search of America,Nonfiction,Â£57.82,5,In stock,1,0268f149d014b389,https://books.toscrape.com/catalogue/travels-with-charley-in-search-of-america_90/index.html
+2022-12-20,The Tumor,Nonfiction,Â£41.56,5,In stock,1,6514add13c82b115,https://books.toscrape.com/catalogue/the-tumor_85/index.html
+2022-12-20,The End of the Jesus Era (An Investigation #1),Nonfiction,Â£14.40,1,In stock,1,09659d1639a1f978,https://books.toscrape.com/catalogue/the-end-of-the-jesus-era-an-investigation-1_64/index.html
+2022-12-20,"Eat, Pray, Love",Nonfiction,Â£51.32,3,In stock,1,df56868afd166557,https://books.toscrape.com/catalogue/eat-pray-love_16/index.html
+2022-12-20,Rip it Up and Start Again,Music,Â£35.02,5,In stock,19,a34ba96d4081e6a4,https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+2022-12-20,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Music,Â£57.25,3,In stock,19,deda3e61b9514b83,https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+2022-12-20,How Music Works,Music,Â£37.32,2,In stock,19,327f68a59745c102,https://books.toscrape.com/catalogue/how-music-works_979/index.html
+2022-12-20,Love Is a Mix Tape (Music #1),Music,Â£18.03,1,In stock,14,adb5f51c2e2ab13f,https://books.toscrape.com/catalogue/love-is-a-mix-tape-music-1_711/index.html
+2022-12-20,Please Kill Me: The Uncensored Oral History of Punk,Music,Â£31.19,4,In stock,8,4a823d80aa30dbb0,https://books.toscrape.com/catalogue/please-kill-me-the-uncensored-oral-history-of-punk_537/index.html
+2022-12-20,Kill 'Em and Leave: Searching for James Brown and the American Soul,Music,Â£45.05,5,In stock,8,39eefec3a8498dde,https://books.toscrape.com/catalogue/kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html
+2022-12-20,"Chronicles, Vol. 1",Music,Â£52.60,2,In stock,7,4781b6bfd6f7a2c5,https://books.toscrape.com/catalogue/chronicles-vol-1_462/index.html
+2022-12-20,This Is Your Brain on Music: The Science of a Human Obsession,Music,Â£38.40,1,In stock,5,bc209a900101f28d,https://books.toscrape.com/catalogue/this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html
+2022-12-20,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",Music,Â£12.36,3,In stock,4,2ba5ccc84d35006c,https://books.toscrape.com/catalogue/orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html
+2022-12-20,No One Here Gets Out Alive,Music,Â£20.02,5,In stock,4,3a95f5a2df4ff921,https://books.toscrape.com/catalogue/no-one-here-gets-out-alive_336/index.html
+2022-12-20,Life,Music,Â£31.58,5,In stock,2,637e5a45062aa548,https://books.toscrape.com/catalogue/life_104/index.html
+2022-12-20,Old Records Never Die: One Man's Quest for His Vinyl and His Past,Music,Â£55.66,2,In stock,1,a1985630339f4b3d,https://books.toscrape.com/catalogue/old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html
+2022-12-20,Forever Rockers (The Rocker #12),Music,Â£28.80,3,In stock,1,e564c3f1a93ccf2e,https://books.toscrape.com/catalogue/forever-rockers-the-rocker-12_19/index.html
+2022-12-20,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Default,Â£17.93,3,In stock,19,e72a5dfc7e9267b2,https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2022-12-20,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Default,Â£22.60,4,In stock,19,e10e1e165dc8be4a,https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2022-12-20,"Starving Hearts (Triangular Trade Trilogy, #1)",Default,Â£13.99,2,In stock,19,0312262ecafa5a40,https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+2022-12-20,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Default,Â£22.50,3,In stock,19,c7d160c2c0de586f,https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+2022-12-20,Aladdin and His Wonderful Lamp,Default,Â£53.13,3,In stock,19,904208d6aa64b655,https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+2022-12-20,Penny Maybe,Default,Â£33.29,3,In stock,18,668fe56b17cfcd4f,https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+2022-12-20,Maude (1883-1993):She Grew Up with the country,Default,Â£18.02,2,In stock,18,094b269567e1c300,https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
+2022-12-20,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",Default,Â£20.59,5,In stock,16,8c9e6bf2467d740d,https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html
+2022-12-20,Soul Reader,Default,Â£39.58,2,In stock,16,e6af5bf1163c1151,https://books.toscrape.com/catalogue/soul-reader_926/index.html
+2022-12-20,Bossypants,Default,Â£49.46,2,In stock,16,74baabfc8fd84b38,https://books.toscrape.com/catalogue/bossypants_883/index.html
+2022-12-20,A World of Flavor: Your Gluten Free Passport,Default,Â£42.95,1,In stock,16,70ed59f194b3c556,https://books.toscrape.com/catalogue/a-world-of-flavor-your-gluten-free-passport_879/index.html
+2022-12-20,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",Default,Â£56.76,5,In stock,16,8a380641491d43ed,https://books.toscrape.com/catalogue/a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html
+2022-12-20,Tracing Numbers on a Train,Default,Â£41.60,3,In stock,15,d7d6d50c1e3d0b81,https://books.toscrape.com/catalogue/tracing-numbers-on-a-train_869/index.html
+2022-12-20,Thirteen Reasons Why,Default,Â£52.72,1,In stock,15,bc2a85fd35fdc7bd,https://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html
+2022-12-20,The Secret (The Secret #1),Default,Â£27.37,4,In stock,15,961f18db4f138211,https://books.toscrape.com/catalogue/the-secret-the-secret-1_859/index.html
+2022-12-20,The Psychopath Test: A Journey Through the Madness Industry,Default,Â£36.00,2,In stock,15,e98a4efa85070c2f,https://books.toscrape.com/catalogue/the-psychopath-test-a-journey-through-the-madness-industry_857/index.html
+2022-12-20,The Kite Runner,Default,Â£41.82,4,In stock,15,eac1a180047ad54e,https://books.toscrape.com/catalogue/the-kite-runner_847/index.html
+2022-12-20,The Girl on the Train,Default,Â£55.02,2,In stock,15,e956d67c9bcc5809,https://books.toscrape.com/catalogue/the-girl-on-the-train_844/index.html
+2022-12-20,The Emerald Mystery,Default,Â£23.15,2,In stock,15,d6670dfe3e7b42bd,https://books.toscrape.com/catalogue/the-emerald-mystery_842/index.html
+2022-12-20,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,Default,Â£32.00,3,In stock,15,efc3768127714ec3,https://books.toscrape.com/catalogue/the-bridge-to-consciousness-im-writing-the-bridge-between-science-and-our-old-and-new-beliefs_840/index.html
+2022-12-20,The Art of War,Default,Â£33.34,5,In stock,15,e7469e22b5bfb3e7,https://books.toscrape.com/catalogue/the-art-of-war_838/index.html
+2022-12-20,Secrets and Lace (Fatal Hearts #1),Default,Â£20.27,1,In stock,15,ad04ad9fc179fc5d,https://books.toscrape.com/catalogue/secrets-and-lace-fatal-hearts-1_829/index.html
+2022-12-20,Romero and Juliet: A Tragic Tale of Love and Zombies,Default,Â£36.94,1,In stock,15,e656e280bc8edd56,https://books.toscrape.com/catalogue/romero-and-juliet-a-tragic-tale-of-love-and-zombies_827/index.html
+2022-12-20,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,Default,Â£41.06,1,In stock,15,d9c643fa1fc57bdb,https://books.toscrape.com/catalogue/poses-for-artists-volume-1-dynamic-and-sitting-poses-an-essential-reference-for-figure-drawing-and-the-human-form_825/index.html
+2022-12-20,Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1),Default,Â£10.76,1,In stock,15,af96613fdd793a3c,https://books.toscrape.com/catalogue/miss-peregrines-home-for-peculiar-children-miss-peregrines-peculiar-children-1_819/index.html
+2022-12-20,Large Print Heart of the Pride,Default,Â£19.15,2,In stock,15,c1afd71fc86bf682,https://books.toscrape.com/catalogue/large-print-heart-of-the-pride_815/index.html
+2022-12-20,Grumbles,Default,Â£22.16,2,In stock,15,d163dd6c352fbcd2,https://books.toscrape.com/catalogue/grumbles_812/index.html
+2022-12-20,First Steps for New Christians (Print Edition),Default,Â£29.00,1,In stock,15,2f88b08bf0a0e367,https://books.toscrape.com/catalogue/first-steps-for-new-christians-print-edition_808/index.html
+2022-12-20,Eureka Trivia 6.0,Default,Â£54.59,4,In stock,15,29c0025455f8c585,https://books.toscrape.com/catalogue/eureka-trivia-60_805/index.html
+2022-12-20,Drive: The Surprising Truth About What Motivates Us,Default,Â£34.95,4,In stock,15,6ffb36aaeff1c81e,https://books.toscrape.com/catalogue/drive-the-surprising-truth-about-what-motivates-us_804/index.html
+2022-12-20,Done Rubbed Out (Reightman & Bailey #1),Default,Â£37.72,5,In stock,15,f6d967cdadc6fbd9,https://books.toscrape.com/catalogue/done-rubbed-out-reightman-bailey-1_803/index.html
+2022-12-20,Beauty Restored (Riley Family Legacy Novellas #3),Default,Â£11.11,2,In stock,15,3f69e667a67e54d9,https://books.toscrape.com/catalogue/beauty-restored-riley-family-legacy-novellas-3_794/index.html
+2022-12-20,Ayumi's Violin,Default,Â£15.48,2,In stock,15,05f7c6d9a4e582d3,https://books.toscrape.com/catalogue/ayumis-violin_791/index.html
+2022-12-20,Anonymous,Default,Â£46.82,4,In stock,15,d24b829be2ca81c4,https://books.toscrape.com/catalogue/anonymous_790/index.html
+2022-12-20,Amy Meets the Saints and Sages,Default,Â£18.46,3,In stock,15,7ebfa6c1bee69e1e,https://books.toscrape.com/catalogue/amy-meets-the-saints-and-sages_789/index.html
+2022-12-20,Amatus,Default,Â£50.54,5,In stock,15,ffd54178acc9a6a5,https://books.toscrape.com/catalogue/amatus_787/index.html
+2022-12-20,V for Vendetta (V for Vendetta Complete),Default,Â£37.10,4,In stock,14,4a1debca3135ff37,https://books.toscrape.com/catalogue/v-for-vendetta-v-for-vendetta-complete_776/index.html
+2022-12-20,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Default,Â£45.95,2,In stock,14,76c84daa539426e2,https://books.toscrape.com/catalogue/unbroken-a-world-war-ii-story-of-survival-resilience-and-redemption_774/index.html
+2022-12-20,The Wright Brothers,Default,Â£56.80,4,In stock,14,08b2f71d93836313,https://books.toscrape.com/catalogue/the-wright-brothers_769/index.html
+2022-12-20,The Songs of the Gods,Default,Â£44.48,5,In stock,14,00c4543ec6bd25b4,https://books.toscrape.com/catalogue/the-songs-of-the-gods_763/index.html
+2022-12-20,The Rosie Project (Don Tillman #1),Default,Â£54.04,1,In stock,14,012094e90a4b908d,https://books.toscrape.com/catalogue/the-rosie-project-don-tillman-1_761/index.html
+2022-12-20,The Power of Habit: Why We Do What We Do in Life and Business,Default,Â£16.88,3,In stock,14,6bdd909329435e80,https://books.toscrape.com/catalogue/the-power-of-habit-why-we-do-what-we-do-in-life-and-business_760/index.html
+2022-12-20,Steve Jobs,Default,Â£39.50,5,In stock,14,95019eac1c0a052f,https://books.toscrape.com/catalogue/steve-jobs_737/index.html
+2022-12-20,Luckiest Girl Alive,Default,Â£49.83,3,In stock,14,d512871626a5e588,https://books.toscrape.com/catalogue/luckiest-girl-alive_713/index.html
+2022-12-20,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",Default,Â£46.91,4,In stock,14,17fb5a88180f9904,https://books.toscrape.com/catalogue/living-leadership-by-insight-a-good-leader-achieves-a-great-leader-builds-monuments_709/index.html
+2022-12-20,Lady Midnight (The Dark Artifices #1),Default,Â£16.28,5,In stock,14,708345c9897fd7c5,https://books.toscrape.com/catalogue/lady-midnight-the-dark-artifices-1_707/index.html
+2022-12-20,"Hush, Hush (Hush, Hush #1)",Default,Â£47.02,3,In stock,14,6b6cd77fbc91b7a6,https://books.toscrape.com/catalogue/hush-hush-hush-hush-1_701/index.html
+2022-12-20,Greek Mythic History,Default,Â£10.23,5,In stock,14,f201f263d8c23f97,https://books.toscrape.com/catalogue/greek-mythic-history_698/index.html
+2022-12-20,Every Last Word,Default,Â£46.47,3,In stock,14,a2bd4ca82d908442,https://books.toscrape.com/catalogue/every-last-word_693/index.html
+2022-12-20,Daily Fantasy Sports,Default,Â£36.58,1,In stock,14,0e94a089328be4bc,https://books.toscrape.com/catalogue/daily-fantasy-sports_683/index.html
+2022-12-20,Clockwork Angel (The Infernal Devices #1),Default,Â£44.14,1,In stock,14,42b0c50fc44140ec,https://books.toscrape.com/catalogue/clockwork-angel-the-infernal-devices-1_679/index.html
+2022-12-20,City of Fallen Angels (The Mortal Instruments #4),Default,Â£11.23,4,In stock,14,1e264c677d4ee4ae,https://books.toscrape.com/catalogue/city-of-fallen-angels-the-mortal-instruments-4_677/index.html
+2022-12-20,City of Bones (The Mortal Instruments #1),Default,Â£43.28,1,In stock,14,5b987e54ee72525c,https://books.toscrape.com/catalogue/city-of-bones-the-mortal-instruments-1_676/index.html
+2022-12-20,City of Ashes (The Mortal Instruments #2),Default,Â£47.27,1,In stock,14,8a6ec2761f91dad2,https://books.toscrape.com/catalogue/city-of-ashes-the-mortal-instruments-2_675/index.html
+2022-12-20,"Carry On, Warrior: Thoughts on Life Unarmed",Default,Â£31.85,3,In stock,14,1b0fc9f777cad045,https://books.toscrape.com/catalogue/carry-on-warrior-thoughts-on-life-unarmed_672/index.html
+2022-12-20,Carrie,Default,Â£46.23,2,In stock,14,5f22418922fa728b,https://books.toscrape.com/catalogue/carrie_671/index.html
+2022-12-20,Angels & Demons (Robert Langdon #1),Default,Â£51.48,3,In stock,14,ad41c24ccac0c7ce,https://books.toscrape.com/catalogue/angels-demons-robert-langdon-1_661/index.html
+2022-12-20,"The Three Searches, Meaning, and the Story",Default,Â£13.33,3,In stock,13,ac5e0d3938caf686,https://books.toscrape.com/catalogue/the-three-searches-meaning-and-the-story_649/index.html
+2022-12-20,Raspberry Pi Electronics Projects for the Evil Genius,Default,Â£49.67,4,In stock,12,ebf81a62e4798fd1,https://books.toscrape.com/catalogue/raspberry-pi-electronics-projects-for-the-evil-genius_630/index.html
+2022-12-20,How to Speak Golf: An Illustrated Guide to Links Lingo,Default,Â£58.32,5,In stock,12,b978c9852cde91bd,https://books.toscrape.com/catalogue/how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html
+2022-12-20,Eleanor & Park,Default,Â£56.51,5,In stock,12,6983328f15506cb9,https://books.toscrape.com/catalogue/eleanor-park_616/index.html
+2022-12-20,Troublemaker: Surviving Hollywood and Scientology,Default,Â£48.39,2,In stock,11,515cb8fcafb1ad98,https://books.toscrape.com/catalogue/troublemaker-surviving-hollywood-and-scientology_610/index.html
+2022-12-20,Adultery,Default,Â£20.88,5,In stock,11,bb967277222e689c,https://books.toscrape.com/catalogue/adultery_586/index.html
+2022-12-20,Unlimited Intuition Now,Default,Â£58.87,4,In stock,9,4fd0a2a350f016e6,https://books.toscrape.com/catalogue/unlimited-intuition-now_578/index.html
+2022-12-20,Underlying Notes,Default,Â£11.82,2,In stock,9,0967effecd292a86,https://books.toscrape.com/catalogue/underlying-notes_577/index.html
+2022-12-20,The New Brand You: Your New Image Makes the Sale for You,Default,Â£44.05,5,In stock,9,4b50fb1359ebf35d,https://books.toscrape.com/catalogue/the-new-brand-you-your-new-image-makes-the-sale-for-you_575/index.html
+2022-12-20,The Flowers Lied,Default,Â£16.68,2,In stock,9,33396269bcce166f,https://books.toscrape.com/catalogue/the-flowers-lied_573/index.html
+2022-12-20,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",Default,Â£10.41,4,In stock,9,ee6c67859d70186b,https://books.toscrape.com/catalogue/nano-what-now-finding-your-editing-process-revising-your-nanowrimo-book-and-building-a-writing-career-through-publishing-and-beyond_566/index.html
+2022-12-20,Modern Day Fables,Default,Â£47.44,2,In stock,9,6baac632f7711e26,https://books.toscrape.com/catalogue/modern-day-fables_565/index.html
+2022-12-20,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),Default,Â£43.62,5,In stock,8,e0bdd79c7304ee8d,https://books.toscrape.com/catalogue/the-unlikely-pilgrimage-of-harold-fry-harold-fry-1_551/index.html
+2022-12-20,The Martian (The Martian #1),Default,Â£41.39,2,In stock,8,9afd00e81d6208e6,https://books.toscrape.com/catalogue/the-martian-the-martian-1_548/index.html
+2022-12-20,Left Behind (Left Behind #1),Default,Â£40.72,2,In stock,8,29af1a2566c4e36e,https://books.toscrape.com/catalogue/left-behind-left-behind-1_529/index.html
+2022-12-20,John Vassos: Industrial Design for Modern Life,Default,Â£20.22,4,In stock,8,bd26e8a79a856c31,https://books.toscrape.com/catalogue/john-vassos-industrial-design-for-modern-life_526/index.html
+2022-12-20,I'll Give You the Sun,Default,Â£56.48,1,In stock,8,0ab4b35dcffcffd1,https://books.toscrape.com/catalogue/ill-give-you-the-sun_525/index.html
+2022-12-20,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Default,Â£52.86,2,In stock,8,d48c1369927ebef1,https://books.toscrape.com/catalogue/heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back_520/index.html
+2022-12-20,Ender's Game (The Ender Quintet #1),Default,Â£43.64,1,In stock,8,e049d44c4f1cf1b2,https://books.toscrape.com/catalogue/enders-game-the-ender-quintet-1_518/index.html
+2022-12-20,Death by Leisure: A Cautionary Tale,Default,Â£37.51,4,In stock,8,4dbd54d9e36c9566,https://books.toscrape.com/catalogue/death-by-leisure-a-cautionary-tale_516/index.html
+2022-12-20,Wildlife of New York: A Five-Borough Coloring Book,Default,Â£22.14,2,In stock,7,b46d022080543144,https://books.toscrape.com/catalogue/wildlife-of-new-york-a-five-borough-coloring-book_507/index.html
+2022-12-20,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,Default,Â£34.72,1,In stock,7,4a0b78598b42897a,https://books.toscrape.com/catalogue/the-year-of-living-biblically-one-mans-humble-quest-to-follow-the-bible-as-literally-as-possible_502/index.html
+2022-12-20,The Great Gatsby,Default,Â£36.05,4,In stock,7,a8dbf1c6b41b885a,https://books.toscrape.com/catalogue/the-great-gatsby_498/index.html
+2022-12-20,The Good Girl,Default,Â£49.03,3,In stock,7,f935412970c9f58f,https://books.toscrape.com/catalogue/the-good-girl_497/index.html
+2022-12-20,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Default,Â£33.17,4,In stock,7,5fbd03b1ac0a0e69,https://books.toscrape.com/catalogue/the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html
+2022-12-20,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Default,Â£20.90,2,In stock,7,8776181be110838a,https://books.toscrape.com/catalogue/steal-like-an-artist-10-things-nobody-told-you-about-being-creative_487/index.html
+2022-12-20,Life of Pi,Default,Â£13.22,4,In stock,7,40cdcbb7692fd408,https://books.toscrape.com/catalogue/life-of-pi_475/index.html
+2022-12-20,The Sound Of Love,Default,Â£57.84,5,In stock,6,5ba3d703d1ae0c1d,https://books.toscrape.com/catalogue/the-sound-of-love_455/index.html
+2022-12-20,The Perks of Being a Wallflower,Default,Â£55.02,3,In stock,6,fd364afd082f5446,https://books.toscrape.com/catalogue/the-perks-of-being-a-wallflower_453/index.html
+2022-12-20,The Makings of a Fatherless Child,Default,Â£31.58,2,In stock,6,2efa5a839e62b1bd,https://books.toscrape.com/catalogue/the-makings-of-a-fatherless-child_450/index.html
+2022-12-20,The Hobbit (Middle-Earth Universe),Default,Â£17.80,5,In stock,6,72b5355dda190b6a,https://books.toscrape.com/catalogue/the-hobbit-middle-earth-universe_447/index.html
+2022-12-20,The Fellowship of the Ring (The Lord of the Rings #1),Default,Â£10.27,2,In stock,6,cb17945cb90b7837,https://books.toscrape.com/catalogue/the-fellowship-of-the-ring-the-lord-of-the-rings-1_442/index.html
+2022-12-20,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,Default,Â£30.60,3,In stock,6,8d8e9f9b8730eb25,https://books.toscrape.com/catalogue/ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html
+2022-12-20,Musicophilia: Tales of Music and the Brain,Default,Â£46.58,1,In stock,6,6d235933670503d9,https://books.toscrape.com/catalogue/musicophilia-tales-of-music-and-the-brain_436/index.html
+2022-12-20,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Default,Â£53.68,4,In stock,5,163d89116179c33f,https://books.toscrape.com/catalogue/what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html
+2022-12-20,The Fault in Our Stars,Default,Â£47.22,1,In stock,5,3661360c99719414,https://books.toscrape.com/catalogue/the-fault-in-our-stars_403/index.html
+2022-12-20,The Dream Thieves (The Raven Cycle #2),Default,Â£34.50,1,In stock,5,fec06f52054ea900,https://books.toscrape.com/catalogue/the-dream-thieves-the-raven-cycle-2_400/index.html
+2022-12-20,The 5th Wave (The 5th Wave #1),Default,Â£11.83,2,In stock,5,b716233fcb6877e6,https://books.toscrape.com/catalogue/the-5th-wave-the-5th-wave-1_397/index.html
+2022-12-20,Shiver (The Wolves of Mercy Falls #1),Default,Â£16.23,5,In stock,5,59a8ae019b64f2a7,https://books.toscrape.com/catalogue/shiver-the-wolves-of-mercy-falls-1_392/index.html
+2022-12-20,Remember Me?,Default,Â£11.48,3,In stock,5,2973d38c2fbd7a5c,https://books.toscrape.com/catalogue/remember-me_391/index.html
+2022-12-20,If I Stay (If I Stay #1),Default,Â£38.13,5,In stock,5,7284d85428305f5a,https://books.toscrape.com/catalogue/if-i-stay-if-i-stay-1_379/index.html
+2022-12-20,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),Default,Â£36.55,2,In stock,5,d219d4e325e6f204,https://books.toscrape.com/catalogue/i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1_378/index.html
+2022-12-20,Harry Potter and the Deathly Hallows (Harry Potter #7),Default,Â£23.32,1,In stock,5,6c49258724f11770,https://books.toscrape.com/catalogue/harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html
+2022-12-20,Fool Me Once,Default,Â£16.96,1,In stock,5,630e766f0a1987dd,https://books.toscrape.com/catalogue/fool-me-once_374/index.html
+2022-12-20,Drama,Default,Â£38.70,2,In stock,5,d5ad4c92d8bf26c9,https://books.toscrape.com/catalogue/drama_371/index.html
+2022-12-20,"Blue Lily, Lily Blue (The Raven Cycle #3)",Default,Â£34.13,5,In stock,5,ad5e078beceaeb4a,https://books.toscrape.com/catalogue/blue-lily-lily-blue-the-raven-cycle-3_364/index.html
+2022-12-20,Alight (The Generations Trilogy #2),Default,Â£58.59,4,In stock,5,d9290e99f189ce84,https://books.toscrape.com/catalogue/alight-the-generations-trilogy-2_360/index.html
+2022-12-20,Vogue Colors A to Z: A Fashion Coloring Book,Default,Â£52.35,4,In stock,4,a8f4577a48023344,https://books.toscrape.com/catalogue/vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html
+2022-12-20,The Shining (The Shining #1),Default,Â£27.88,3,In stock,4,d4de23aa98acc65b,https://books.toscrape.com/catalogue/the-shining-the-shining-1_354/index.html
+2022-12-20,The Hunger Games (The Hunger Games #1),Default,Â£29.85,5,In stock,4,6d2f70d9424f41a1,https://books.toscrape.com/catalogue/the-hunger-games-the-hunger-games-1_349/index.html
+2022-12-20,Outlander (Outlander #1),Default,Â£19.67,5,In stock,4,5de4baa88061a77a,https://books.toscrape.com/catalogue/outlander-outlander-1_338/index.html
+2022-12-20,Mockingjay (The Hunger Games #3),Default,Â£20.44,4,In stock,4,5212c6acea3359e5,https://books.toscrape.com/catalogue/mockingjay-the-hunger-games-3_333/index.html
+2022-12-20,Harry Potter and the Sorcerer's Stone (Harry Potter #1),Default,Â£13.90,3,In stock,4,ac337893a9fe0085,https://books.toscrape.com/catalogue/harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html
+2022-12-20,Confessions of a Shopaholic (Shopaholic #1),Default,Â£48.94,2,In stock,4,a2dc754afb69bb32,https://books.toscrape.com/catalogue/confessions-of-a-shopaholic-shopaholic-1_318/index.html
+2022-12-20,Zero History (Blue Ant #3),Default,Â£34.77,1,In stock,3,634b7165c96ebb9f,https://books.toscrape.com/catalogue/zero-history-blue-ant-3_308/index.html
+2022-12-20,World War Z: An Oral History of the Zombie War,Default,Â£21.80,1,In stock,3,5d55202da0252627,https://books.toscrape.com/catalogue/world-war-z-an-oral-history-of-the-zombie-war_306/index.html
+2022-12-20,Wild: From Lost to Found on the Pacific Crest Trail,Default,Â£46.02,3,In stock,3,d30b9215c72cca87,https://books.toscrape.com/catalogue/wild-from-lost-to-found-on-the-pacific-crest-trail_305/index.html
+2022-12-20,"Where'd You Go, Bernadette",Default,Â£18.13,1,In stock,3,07bb35158d9dd3d2,https://books.toscrape.com/catalogue/whered-you-go-bernadette_304/index.html
+2022-12-20,Twilight (Twilight #1),Default,Â£41.93,2,In stock,3,b53078de0147f6bf,https://books.toscrape.com/catalogue/twilight-twilight-1_293/index.html
+2022-12-20,The Paris Wife,Default,Â£36.80,3,In stock,3,fa26798728f5208f,https://books.toscrape.com/catalogue/the-paris-wife_269/index.html
+2022-12-20,The Maze Runner (The Maze Runner #1),Default,Â£20.93,1,In stock,3,4266f48a0aa1c37d,https://books.toscrape.com/catalogue/the-maze-runner-the-maze-runner-1_263/index.html
+2022-12-20,The Lover's Dictionary,Default,Â£58.09,2,In stock,3,36c15687f5ab0f7c,https://books.toscrape.com/catalogue/the-lovers-dictionary_262/index.html
+2022-12-20,The Goldfinch,Default,Â£43.58,3,In stock,3,c88422d8959260ab,https://books.toscrape.com/catalogue/the-goldfinch_252/index.html
+2022-12-20,The Giver (The Giver Quartet #1),Default,Â£12.30,1,In stock,3,e2dac1f4739e0bd5,https://books.toscrape.com/catalogue/the-giver-the-giver-quartet-1_251/index.html
+2022-12-20,The Girl Who Played with Fire (Millennium Trilogy #2),Default,Â£22.14,2,In stock,3,bfa9cb304075d3e8,https://books.toscrape.com/catalogue/the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html
+2022-12-20,The Demon-Haunted World: Science as a Candle in the Dark,Default,Â£52.25,4,In stock,3,f51062bf579507d9,https://books.toscrape.com/catalogue/the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html
+2022-12-20,The Book Thief,Default,Â£53.49,2,In stock,3,a75e274c8814b539,https://books.toscrape.com/catalogue/the-book-thief_233/index.html
+2022-12-20,The Autobiography of Malcolm X,Default,Â£23.43,2,In stock,3,b04a6a0db525857d,https://books.toscrape.com/catalogue/the-autobiography-of-malcolm-x_230/index.html
+2022-12-20,Shopaholic & Baby (Shopaholic #5),Default,Â£46.45,2,In stock,3,c57d3c96af23c297,https://books.toscrape.com/catalogue/shopaholic-baby-shopaholic-5_221/index.html
+2022-12-20,Quiet: The Power of Introverts in a World That Can't Stop Talking,Default,Â£43.55,1,In stock,3,3c565df219ba3274,https://books.toscrape.com/catalogue/quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking_208/index.html
+2022-12-20,Packing for Mars: The Curious Science of Life in the Void,Default,Â£56.68,2,In stock,3,8e2dfd6bcf48e1e6,https://books.toscrape.com/catalogue/packing-for-mars-the-curious-science-of-life-in-the-void_205/index.html
+2022-12-20,Orange Is the New Black,Default,Â£24.61,2,In stock,3,8378c899988905ee,https://books.toscrape.com/catalogue/orange-is-the-new-black_202/index.html
+2022-12-20,One for the Money (Stephanie Plum #1),Default,Â£32.87,2,In stock,3,3250650a5c4e6f07,https://books.toscrape.com/catalogue/one-for-the-money-stephanie-plum-1_201/index.html
+2022-12-20,Morning Star (Red Rising #3),Default,Â£29.40,1,In stock,3,7ce5a92baabb6bc0,https://books.toscrape.com/catalogue/morning-star-red-rising-3_196/index.html
+2022-12-20,Life After Life,Default,Â£26.13,2,In stock,3,4ec53ff7e2263f32,https://books.toscrape.com/catalogue/life-after-life_187/index.html
+2022-12-20,"Lean In: Women, Work, and the Will to Lead",Default,Â£25.02,1,In stock,3,d5e1a9bfe22bbf9f,https://books.toscrape.com/catalogue/lean-in-women-work-and-the-will-to-lead_183/index.html
+2022-12-20,Is Everyone Hanging Out Without Me? (And Other Concerns),Default,Â£20.11,3,In stock,3,034829ffdd0a0aea,https://books.toscrape.com/catalogue/is-everyone-hanging-out-without-me-and-other-concerns_178/index.html
+2022-12-20,Gone Girl,Default,Â£37.60,5,In stock,3,d5c588b6f9c015e4,https://books.toscrape.com/catalogue/gone-girl_162/index.html
+2022-12-20,Fellside,Default,Â£38.62,1,In stock,3,147019cae600694e,https://books.toscrape.com/catalogue/fellside_155/index.html
+2022-12-20,Eclipse (Twilight #3),Default,Â£18.74,1,In stock,3,73f71f9556442117,https://books.toscrape.com/catalogue/eclipse-twilight-3_152/index.html
+2022-12-20,Dracula,Default,Â£52.62,3,In stock,3,a7ec599c1a547746,https://books.toscrape.com/catalogue/dracula_150/index.html
+2022-12-20,Dead Wake: The Last Crossing of the Lusitania,Default,Â£39.24,5,In stock,3,04d858cdeeee0da4,https://books.toscrape.com/catalogue/dead-wake-the-last-crossing-of-the-lusitania_147/index.html
+2022-12-20,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Default,Â£17.81,1,In stock,3,d234ddecef49ef4e,https://books.toscrape.com/catalogue/david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants_146/index.html
+2022-12-20,Dark Places,Default,Â£23.90,5,In stock,3,66937c669c4da072,https://books.toscrape.com/catalogue/dark-places_144/index.html
+2022-12-20,Breaking Dawn (Twilight #4),Default,Â£35.28,5,In stock,3,bbfc4a3b7b6c94a0,https://books.toscrape.com/catalogue/breaking-dawn-twilight-4_136/index.html
+2022-12-20,Beautiful Creatures (Caster Chronicles #1),Default,Â£21.55,5,In stock,3,5439bae708bca198,https://books.toscrape.com/catalogue/beautiful-creatures-caster-chronicles-1_125/index.html
+2022-12-20,A Visit from the Goon Squad,Default,Â£14.08,5,In stock,3,5dbd6ec4e154ad2f,https://books.toscrape.com/catalogue/a-visit-from-the-goon-squad_117/index.html
+2022-12-20,The Zombie Room,Default,Â£19.69,5,In stock,1,9c96cd1329fbd82d,https://books.toscrape.com/catalogue/the-zombie-room_87/index.html
+2022-12-20,The Name of the Wind (The Kingkiller Chronicle #1),Default,Â£50.59,3,In stock,1,c8614adb1a90b027,https://books.toscrape.com/catalogue/the-name-of-the-wind-the-kingkiller-chronicle-1_74/index.html
+2022-12-20,Taking Shots (Assassins #1),Default,Â£18.88,2,In stock,1,a7eef9d6795422c1,https://books.toscrape.com/catalogue/taking-shots-assassins-1_57/index.html
+2022-12-20,Shatter Me (Shatter Me #1),Default,Â£42.40,1,In stock,1,9ed7090d8fa690b0,https://books.toscrape.com/catalogue/shatter-me-shatter-me-1_53/index.html
+2022-12-20,Paradise Lost (Paradise #1),Default,Â£24.96,1,In stock,1,849db7ab7f4a640c,https://books.toscrape.com/catalogue/paradise-lost-paradise-1_45/index.html
+2022-12-20,On the Road (Duluoz Legend),Default,Â£32.36,3,In stock,1,9ff997ab15713e53,https://books.toscrape.com/catalogue/on-the-road-duluoz-legend_40/index.html
+2022-12-20,Jane Eyre,Default,Â£38.43,5,In stock,1,8d390a1fc3133d06,https://books.toscrape.com/catalogue/jane-eyre_27/index.html
+2022-12-20,Frankenstein,Default,Â£38.00,2,In stock,1,a492f49a3e2b6a71,https://books.toscrape.com/catalogue/frankenstein_20/index.html
+2022-12-20,Mesaerion: The Best Science Fiction Stories 1800-1849,Science Fiction,Â£37.59,1,In stock,19,e30f54cea9b38190,https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+2022-12-20,Join,Science Fiction,Â£35.67,5,In stock,16,18ad3ed896c7ce05,https://books.toscrape.com/catalogue/join_902/index.html
+2022-12-20,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",Science Fiction,Â£43.30,4,In stock,15,9270575728a13a61,https://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html
+2022-12-20,The Project,Science Fiction,Â£10.65,1,In stock,15,790ef197c8f236f5,https://books.toscrape.com/catalogue/the-project_856/index.html
+2022-12-20,Soft Apocalypse,Science Fiction,Â£26.12,2,In stock,15,2a70769cdc6eb8b8,https://books.toscrape.com/catalogue/soft-apocalypse_833/index.html
+2022-12-20,Sleeping Giants (Themis Files #1),Science Fiction,Â£48.74,1,In stock,11,f435aa99d864077d,https://books.toscrape.com/catalogue/sleeping-giants-themis-files-1_604/index.html
+2022-12-20,Arena,Science Fiction,Â£21.36,4,In stock,11,2c34f9432069b52b,https://books.toscrape.com/catalogue/arena_587/index.html
+2022-12-20,Foundation (Foundation (Publication Order) #1),Science Fiction,Â£32.42,1,In stock,5,3fc124f59f3068e4,https://books.toscrape.com/catalogue/foundation-foundation-publication-order-1_375/index.html
+2022-12-20,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),Science Fiction,Â£10.92,1,In stock,3,0e92ccf1bd39e68f,https://books.toscrape.com/catalogue/the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html
+2022-12-20,Ready Player One,Science Fiction,Â£19.07,4,In stock,3,2ef5dc7e278e562a,https://books.toscrape.com/catalogue/ready-player-one_209/index.html
+2022-12-20,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",Science Fiction,Â£33.26,2,In stock,3,4b3f4f151c99f472,https://books.toscrape.com/catalogue/life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html
+2022-12-20,Dune (Dune #1),Science Fiction,Â£54.86,1,In stock,3,36d5884d44484277,https://books.toscrape.com/catalogue/dune-dune-1_151/index.html
+2022-12-20,Do Androids Dream of Electric Sheep? (Blade Runner #1),Science Fiction,Â£51.48,1,In stock,3,98330e431e56a9ea,https://books.toscrape.com/catalogue/do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html
+2022-12-20,Three Wishes (River of Time: California #1),Science Fiction,Â£44.18,2,In stock,1,460f97a346b44bac,https://books.toscrape.com/catalogue/three-wishes-river-of-time-california-1_89/index.html
+2022-12-20,The Last Girl (The Dominion Trilogy #1),Science Fiction,Â£36.26,2,In stock,1,16c71736dae78764,https://books.toscrape.com/catalogue/the-last-girl-the-dominion-trilogy-1_70/index.html
+2022-12-20,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),Science Fiction,Â£34.96,4,In stock,1,6717a70913b3db79,https://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html
+2022-12-20,The Book of Basketball: The NBA According to The Sports Guy,Sports and Games,Â£44.84,5,In stock,3,08decd9664e5d56e,https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html
+2022-12-20,"Friday Night Lights: A Town, a Team, and a Dream",Sports and Games,Â£51.22,3,In stock,3,a9aa3ed5b316470b,https://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html
+2022-12-20,Sugar Rush (Offensive Line #2),Sports and Games,Â£24.42,1,In stock,2,ce42e3de94226b2b,https://books.toscrape.com/catalogue/sugar-rush-offensive-line-2_108/index.html
+2022-12-20,Settling the Score (The Summer Games #1),Sports and Games,Â£44.91,2,In stock,1,132adf7335bb384a,https://books.toscrape.com/catalogue/settling-the-score-the-summer-games-1_50/index.html
+2022-12-20,Icing (Aces Hockey #2),Sports and Games,Â£40.44,4,In stock,1,3455b45888fb5053,https://books.toscrape.com/catalogue/icing-aces-hockey-2_25/index.html
+2022-12-20,The Torch Is Passed: A Harding Family Story,Add a comment,Â£19.09,1,In stock,16,4eed62cf5f8d8edf,https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html
+2022-12-20,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",Add a comment,Â£23.89,4,In stock,16,31075275518532d7,https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html
+2022-12-20,The Art Forger,Add a comment,Â£40.76,3,In stock,16,80cfab6bcff3a244,https://books.toscrape.com/catalogue/the-art-forger_930/index.html
+2022-12-20,On a Midnight Clear,Add a comment,Â£14.07,3,In stock,16,b757c0c361e689ce,https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html
+2022-12-20,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),Add a comment,Â£53.90,2,In stock,16,228f74b74f3a08ae,https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html
+2022-12-20,"Shobu Samurai, Project Aryoku (#3)",Add a comment,Â£29.06,3,In stock,15,0c27e6c3744fc14b,https://books.toscrape.com/catalogue/shobu-samurai-project-aryoku-3_830/index.html
+2022-12-20,Modern Romance,Add a comment,Â£28.26,5,In stock,15,caf4fe9311f1dc59,https://books.toscrape.com/catalogue/modern-romance_820/index.html
+2022-12-20,The White Queen (The Cousins' War #1),Add a comment,Â£25.91,5,In stock,14,6875c5657661b2fb,https://books.toscrape.com/catalogue/the-white-queen-the-cousins-war-1_768/index.html
+2022-12-20,The Song of Achilles,Add a comment,Â£37.40,5,In stock,14,e88fb1c9397cfb27,https://books.toscrape.com/catalogue/the-song-of-achilles_762/index.html
+2022-12-20,The Immortal Life of Henrietta Lacks,Add a comment,Â£40.67,2,In stock,14,f72f61ad6a5f12ed,https://books.toscrape.com/catalogue/the-immortal-life-of-henrietta-lacks_753/index.html
+2022-12-20,The Dovekeepers,Add a comment,Â£48.78,1,In stock,14,3d76bc83c6b644c9,https://books.toscrape.com/catalogue/the-dovekeepers_748/index.html
+2022-12-20,More Than Music (Chasing the Dream #1),Add a comment,Â£37.61,2,In stock,14,47d47155e89c8be7,https://books.toscrape.com/catalogue/more-than-music-chasing-the-dream-1_716/index.html
+2022-12-20,Code Name Verity (Code Name Verity #1),Add a comment,Â£22.13,4,In stock,14,33a3e0e3ffde0dcd,https://books.toscrape.com/catalogue/code-name-verity-code-name-verity-1_680/index.html
+2022-12-20,Cell,Add a comment,Â£20.29,4,In stock,14,bfbb54bc8cdeed2b,https://books.toscrape.com/catalogue/cell_674/index.html
+2022-12-20,Angels Walking (Angels Walking #1),Add a comment,Â£34.20,2,In stock,14,1fbb5f786e53a0ce,https://books.toscrape.com/catalogue/angels-walking-angels-walking-1_662/index.html
+2022-12-20,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",Add a comment,Â£56.48,2,In stock,14,c1379d3744f1dd2c,https://books.toscrape.com/catalogue/a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html
+2022-12-20,A People's History of the United States,Add a comment,Â£40.79,2,In stock,14,1ad06aed9349af46,https://books.toscrape.com/catalogue/a-peoples-history-of-the-united-states_654/index.html
+2022-12-20,A Brush of Wings (Angels Walking #3),Add a comment,Â£55.51,1,In stock,14,01a177623cce9596,https://books.toscrape.com/catalogue/a-brush-of-wings-angels-walking-3_651/index.html
+2022-12-20,Rook,Add a comment,Â£37.86,4,In stock,13,44d97b6707dae3f0,https://books.toscrape.com/catalogue/rook_647/index.html
+2022-12-20,The Midnight Watch: A Novel of the Titanic and the Californian,Add a comment,Â£26.20,1,In stock,12,14e44163678e24dc,https://books.toscrape.com/catalogue/the-midnight-watch-a-novel-of-the-titanic-and-the-californian_640/index.html
+2022-12-20,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,Add a comment,Â£59.15,4,In stock,12,3063c7e95d0bf76f,https://books.toscrape.com/catalogue/the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html
+2022-12-20,The Children,Add a comment,Â£11.88,3,In stock,12,64fd010bf8d15096,https://books.toscrape.com/catalogue/the-children_633/index.html
+2022-12-20,One with You (Crossfire #5),Add a comment,Â£15.71,4,In stock,12,81ef44fcc5f454df,https://books.toscrape.com/catalogue/one-with-you-crossfire-5_626/index.html
+2022-12-20,Without Shame,Add a comment,Â£48.27,5,In stock,9,ab60e6f5a63e1cfb,https://books.toscrape.com/catalogue/without-shame_580/index.html
+2022-12-20,Watchmen,Add a comment,Â£58.05,4,In stock,9,d1848064c54e01c7,https://books.toscrape.com/catalogue/watchmen_579/index.html
+2022-12-20,A Hero's Curse (The Unseen Chronicles #1),Add a comment,Â£50.49,3,In stock,9,c181ca8eabe7d18c,https://books.toscrape.com/catalogue/a-heros-curse-the-unseen-chronicles-1_557/index.html
+2022-12-20,23 Degrees South: A Tropical Tale of Changing Whether...,Add a comment,Â£35.79,2,In stock,9,61cf7eb9d2cd8bb0,https://books.toscrape.com/catalogue/23-degrees-south-a-tropical-tale-of-changing-whether_556/index.html
+2022-12-20,The Glass Castle,Add a comment,Â£16.24,1,In stock,7,47f4fd3e8e1dac05,https://books.toscrape.com/catalogue/the-glass-castle_496/index.html
+2022-12-20,The Drowning Girls,Add a comment,Â£35.67,3,In stock,7,7a10353c9c54cf7c,https://books.toscrape.com/catalogue/the-drowning-girls_494/index.html
+2022-12-20,Team of Rivals: The Political Genius of Abraham Lincoln,Add a comment,Â£20.12,5,In stock,7,ba047a636b7d3793,https://books.toscrape.com/catalogue/team-of-rivals-the-political-genius-of-abraham-lincoln_488/index.html
+2022-12-20,John Adams,Add a comment,Â£57.43,4,In stock,7,68407606544d6f22,https://books.toscrape.com/catalogue/john-adams_472/index.html
+2022-12-20,Good in Bed (Cannie Shapiro #1),Add a comment,Â£37.05,5,In stock,7,c00bc29a678a6efb,https://books.toscrape.com/catalogue/good-in-bed-cannie-shapiro-1_469/index.html
+2022-12-20,The Joy of Cooking,Add a comment,Â£43.27,4,In stock,6,d326e189b1210916,https://books.toscrape.com/catalogue/the-joy-of-cooking_449/index.html
+2022-12-20,The Golden Compass (His Dark Materials #1),Add a comment,Â£18.77,1,In stock,6,d33824cb93ecab6f,https://books.toscrape.com/catalogue/the-golden-compass-his-dark-materials-1_445/index.html
+2022-12-20,The God Delusion,Add a comment,Â£46.85,3,In stock,6,2bc80eba94950873,https://books.toscrape.com/catalogue/the-god-delusion_444/index.html
+2022-12-20,Pride and Prejudice,Add a comment,Â£19.27,4,In stock,6,720c36b2bee4692e,https://books.toscrape.com/catalogue/pride-and-prejudice_437/index.html
+2022-12-20,Mere Christianity,Add a comment,Â£48.51,3,In stock,6,f38f37ed934d84b2,https://books.toscrape.com/catalogue/mere-christianity_435/index.html
+2022-12-20,Fun Home: A Family Tragicomic,Add a comment,Â£56.59,4,In stock,6,56a34d0cec11d6b0,https://books.toscrape.com/catalogue/fun-home-a-family-tragicomic_428/index.html
+2022-12-20,The Raven King (The Raven Cycle #4),Add a comment,Â£30.57,2,In stock,5,2e4fc5eacceec12c,https://books.toscrape.com/catalogue/the-raven-king-the-raven-cycle-4_412/index.html
+2022-12-20,Find Her (Detective D.D. Warren #8),Add a comment,Â£22.37,1,In stock,5,b28c7d07afa7063b,https://books.toscrape.com/catalogue/find-her-detective-dd-warren-8_373/index.html
+2022-12-20,Evicted: Poverty and Profit in the American City,Add a comment,Â£42.27,1,In stock,5,75cc85cdbe9ad46b,https://books.toscrape.com/catalogue/evicted-poverty-and-profit-in-the-american-city_372/index.html
+2022-12-20,A Game of Thrones (A Song of Ice and Fire #1),Add a comment,Â£46.42,2,In stock,5,03cbb67c0f990d87,https://books.toscrape.com/catalogue/a-game-of-thrones-a-song-of-ice-and-fire-1_358/index.html
+2022-12-20,A Clash of Kings (A Song of Ice and Fire #2),Add a comment,Â£10.79,3,In stock,5,89a89e76f3516357,https://books.toscrape.com/catalogue/a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html
+2022-12-20,The Tipping Point: How Little Things Can Make a Big Difference,Add a comment,Â£10.02,2,In stock,3,224fa77d4b248046,https://books.toscrape.com/catalogue/the-tipping-point-how-little-things-can-make-a-big-difference_284/index.html
+2022-12-20,The Rest Is Noise: Listening to the Twentieth Century,Add a comment,Â£34.77,1,In stock,3,e2d47e82c50d41d9,https://books.toscrape.com/catalogue/the-rest-is-noise-listening-to-the-twentieth-century_274/index.html
+2022-12-20,The Purpose Driven Life: What on Earth Am I Here for?,Add a comment,Â£37.19,3,In stock,3,0e7beedf0ee9380c,https://books.toscrape.com/catalogue/the-purpose-driven-life-what-on-earth-am-i-here-for_272/index.html
+2022-12-20,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),Add a comment,Â£47.80,3,In stock,3,a8b0ea6490bc818f,https://books.toscrape.com/catalogue/the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html
+2022-12-20,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),Add a comment,Â£57.48,1,In stock,3,8f5d16a5a9bd58b2,https://books.toscrape.com/catalogue/the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html
+2022-12-20,"The End of Faith: Religion, Terror, and the Future of Reason",Add a comment,Â£22.13,4,In stock,3,b3f2bc2cefb35f05,https://books.toscrape.com/catalogue/the-end-of-faith-religion-terror-and-the-future-of-reason_246/index.html
+2022-12-20,The Complete Poems,Add a comment,Â£41.32,5,In stock,3,23707d3ddf14a999,https://books.toscrape.com/catalogue/the-complete-poems_237/index.html
+2022-12-20,The Catcher in the Rye,Add a comment,Â£24.55,1,In stock,3,487449f4f6322f0f,https://books.toscrape.com/catalogue/the-catcher-in-the-rye_236/index.html
+2022-12-20,The Case for Christ (Cases for Christianity),Add a comment,Â£47.84,1,In stock,3,970bd3316219e7dc,https://books.toscrape.com/catalogue/the-case-for-christ-cases-for-christianity_234/index.html
+2022-12-20,The Blind Side: Evolution of a Game,Add a comment,Â£53.71,5,In stock,3,cd3dcd83bb002e78,https://books.toscrape.com/catalogue/the-blind-side-evolution-of-a-game_231/index.html
+2022-12-20,Seven Days in the Art World,Add a comment,Â£52.33,2,In stock,3,07806456878931bc,https://books.toscrape.com/catalogue/seven-days-in-the-art-world_220/index.html
+2022-12-20,Sarah's Key,Add a comment,Â£46.29,1,In stock,3,5b2cd5b31a510848,https://books.toscrape.com/catalogue/sarahs-key_217/index.html
+2022-12-20,Rogue Lawyer (Rogue Lawyer #1),Add a comment,Â£50.11,3,In stock,3,b4f5672f68ec3a83,https://books.toscrape.com/catalogue/rogue-lawyer-rogue-lawyer-1_214/index.html
+2022-12-20,Manuscript Found in Accra,Add a comment,Â£34.98,2,In stock,3,546da23278482b0a,https://books.toscrape.com/catalogue/manuscript-found-in-accra_192/index.html
+2022-12-20,Fire Bound (Sea Haven/Sisters of the Heart #5),Add a comment,Â£21.28,4,In stock,3,2ed3a794a70aa85f,https://books.toscrape.com/catalogue/fire-bound-sea-havensisters-of-the-heart-5_157/index.html
+2022-12-20,Cosmos,Add a comment,Â£36.17,2,In stock,3,dbe33cf29ef1623d,https://books.toscrape.com/catalogue/cosmos_141/index.html
+2022-12-20,#GIRLBOSS,Add a comment,Â£50.96,1,In stock,3,165affa7adb5eded,https://books.toscrape.com/catalogue/girlboss_113/index.html
+2022-12-20,The Sense of an Ending,Add a comment,Â£31.38,3,In stock,2,4130678275eb7c8c,https://books.toscrape.com/catalogue/the-sense-of-an-ending_111/index.html
+2022-12-20,The Republic,Add a comment,Â£33.78,3,In stock,1,0ec9d2b018fb10d8,https://books.toscrape.com/catalogue/the-republic_78/index.html
+2022-12-20,The Odyssey,Add a comment,Â£29.64,3,In stock,1,f0512adadffd2480,https://books.toscrape.com/catalogue/the-odyssey_77/index.html
+2022-12-20,The Light of the Fireflies,Add a comment,Â£54.43,1,In stock,1,04e43893e32f9d29,https://books.toscrape.com/catalogue/the-light-of-the-fireflies_71/index.html
+2022-12-20,The Iliad,Add a comment,Â£16.16,1,In stock,1,86d8bd7afa5b51b3,https://books.toscrape.com/catalogue/the-iliad_69/index.html
+2022-12-20,The Communist Manifesto,Add a comment,Â£14.76,3,In stock,1,18b4545a5ed15581,https://books.toscrape.com/catalogue/the-communist-manifesto_61/index.html
+2022-12-20,Lord of the Flies,Add a comment,Â£24.89,3,In stock,1,71a6471bbdac21d9,https://books.toscrape.com/catalogue/lord-of-the-flies_30/index.html
+2022-12-20,Unicorn Tracks,Fantasy,Â£18.78,3,In stock,16,7ae099f3898e0209,https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html
+2022-12-20,"Saga, Volume 6 (Saga (Collected Editions) #6)",Fantasy,Â£25.02,3,In stock,16,c849f0b2f5d6a742,https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html
+2022-12-20,Princess Between Worlds (Wide-Awake Princess #5),Fantasy,Â£13.34,5,In stock,16,0e691eda369f4e09,https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html
+2022-12-20,Masks and Shadows,Fantasy,Â£56.40,2,In stock,16,fa9610a50a1bf149,https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html
+2022-12-20,Crown of Midnight (Throne of Glass #2),Fantasy,Â£43.29,3,In stock,16,7267864328ae8b9d,https://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html
+2022-12-20,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",Fantasy,Â£28.09,2,In stock,16,6d5300b2d8f37e07,https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html
+2022-12-20,A Court of Thorns and Roses (A Court of Thorns and Roses #1),Fantasy,Â£52.37,1,In stock,16,01d2001ac1e6f8a3,https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html
+2022-12-20,Throne of Glass (Throne of Glass #1),Fantasy,Â£35.07,3,In stock,15,590a9cccf7db9f7d,https://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html
+2022-12-20,The Glittering Court (The Glittering Court #1),Fantasy,Â£44.28,1,In stock,15,2dbb7ec08cdd7f3c,https://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html
+2022-12-20,Hollow City (Miss Peregrineâs Peculiar Children #2),Fantasy,Â£42.98,1,In stock,15,4ce91d31c1e57c33,https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html
+2022-12-20,The Star-Touched Queen,Fantasy,Â£46.02,5,In stock,14,1528279aec1f3dce,https://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html
+2022-12-20,The Hidden Oracle (The Trials of Apollo #1),Fantasy,Â£52.26,2,In stock,14,992974ba6a0536ea,https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html
+2022-12-20,The Bane Chronicles (The Bane Chronicles #1-11),Fantasy,Â£44.73,4,In stock,14,dc6f688b82e42a5b,https://books.toscrape.com/catalogue/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html
+2022-12-20,Island of Dragons (Unwanteds #7),Fantasy,Â£29.65,1,In stock,14,2b52334fab158861,https://books.toscrape.com/catalogue/island-of-dragons-unwanteds-7_705/index.html
+2022-12-20,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),Fantasy,Â£37.51,5,In stock,14,3c6fe637a0180b01,https://books.toscrape.com/catalogue/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html
+2022-12-20,City of Glass (The Mortal Instruments #3),Fantasy,Â£56.02,4,In stock,14,966ebb738e0f9d9b,https://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html
+2022-12-20,Searching for Meaning in Gailana,Fantasy,Â£38.73,1,In stock,13,2f0213137a80d485,https://books.toscrape.com/catalogue/searching-for-meaning-in-gailana_648/index.html
+2022-12-20,The Star-Touched Queen,Fantasy,Â£32.30,5,In stock,12,4a7a25be293ad678,https://books.toscrape.com/catalogue/the-star-touched-queen_642/index.html
+2022-12-20,A Shard of Ice (The Black Symphony Saga #1),Fantasy,Â£56.63,3,In stock,9,63d5f1651880dcea,https://books.toscrape.com/catalogue/a-shard-of-ice-the-black-symphony-saga-1_558/index.html
+2022-12-20,King's Folly (The Kinsman Chronicles #1),Fantasy,Â£39.61,5,In stock,7,4c82371b8cd02d4d,https://books.toscrape.com/catalogue/kings-folly-the-kinsman-chronicles-1_473/index.html
+2022-12-20,Every Heart a Doorway (Every Heart A Doorway #1),Fantasy,Â£12.16,5,In stock,7,4fa75fc6829431ca,https://books.toscrape.com/catalogue/every-heart-a-doorway-every-heart-a-doorway-1_465/index.html
+2022-12-20,A Gathering of Shadows (Shades of Magic #2),Fantasy,Â£44.81,4,In stock,7,d1378a0ad06ff979,https://books.toscrape.com/catalogue/a-gathering-of-shadows-shades-of-magic-2_456/index.html
+2022-12-20,The Raven Boys (The Raven Cycle #1),Fantasy,Â£57.74,4,In stock,5,e0b3a679b83caccc,https://books.toscrape.com/catalogue/the-raven-boys-the-raven-cycle-1_411/index.html
+2022-12-20,The False Prince (The Ascendance Trilogy #1),Fantasy,Â£56.00,5,In stock,5,a2a9f76339d21ab1,https://books.toscrape.com/catalogue/the-false-prince-the-ascendance-trilogy-1_402/index.html
+2022-12-20,Tell the Wind and Fire,Fantasy,Â£45.51,3,In stock,5,84126312e2431a09,https://books.toscrape.com/catalogue/tell-the-wind-and-fire_396/index.html
+2022-12-20,A Feast for Crows (A Song of Ice and Fire #4),Fantasy,Â£17.21,4,In stock,5,f2c8f4b4c94d5c5c,https://books.toscrape.com/catalogue/a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html
+2022-12-20,The Demonists (Demonist #1),Fantasy,Â£52.11,2,In stock,4,ff2dffba388d9922,https://books.toscrape.com/catalogue/the-demonists-demonist-1_345/index.html
+2022-12-20,The Beast (Black Dagger Brotherhood #14),Fantasy,Â£46.08,5,In stock,4,8930013d06942df1,https://books.toscrape.com/catalogue/the-beast-black-dagger-brotherhood-14_342/index.html
+2022-12-20,Paper and Fire (The Great Library #2),Fantasy,Â£49.45,5,In stock,4,ae884ac655d6ee3e,https://books.toscrape.com/catalogue/paper-and-fire-the-great-library-2_339/index.html
+2022-12-20,Harry Potter and the Order of the Phoenix (Harry Potter #5),Fantasy,Â£31.63,4,In stock,4,5a6b7155f2797537,https://books.toscrape.com/catalogue/harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html
+2022-12-20,Harry Potter and the Half-Blood Prince (Harry Potter #6),Fantasy,Â£48.75,5,In stock,4,73f4f87dd936ee5c,https://books.toscrape.com/catalogue/harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html
+2022-12-20,Harry Potter and the Chamber of Secrets (Harry Potter #2),Fantasy,Â£14.74,1,In stock,4,c7c4f55b7321cba7,https://books.toscrape.com/catalogue/harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html
+2022-12-20,The Rose & the Dagger (The Wrath and the Dawn #2),Fantasy,Â£58.64,4,In stock,3,322a9e34d87f54b1,https://books.toscrape.com/catalogue/the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html
+2022-12-20,Soldier (Talon #3),Fantasy,Â£24.72,2,In stock,3,feaaae90514eb2ac,https://books.toscrape.com/catalogue/soldier-talon-3_222/index.html
+2022-12-20,Midnight Riot (Peter Grant/ Rivers of London - books #1),Fantasy,Â£55.46,2,In stock,3,e9056f9b5a40a301,https://books.toscrape.com/catalogue/midnight-riot-peter-grant-rivers-of-london-books-1_194/index.html
+2022-12-20,Heir to the Sky,Fantasy,Â£44.07,4,In stock,3,b003f8bb02f76dc5,https://books.toscrape.com/catalogue/heir-to-the-sky_166/index.html
+2022-12-20,Eragon (The Inheritance Cycle #1),Fantasy,Â£43.87,3,In stock,3,b843f52a986a2914,https://books.toscrape.com/catalogue/eragon-the-inheritance-cycle-1_153/index.html
+2022-12-20,Darkfever (Fever #1),Fantasy,Â£56.02,1,In stock,3,468bd274ac084bb9,https://books.toscrape.com/catalogue/darkfever-fever-1_145/index.html
+2022-12-20,Ash,Fantasy,Â£22.06,4,In stock,3,5d22e2a46604b6e7,https://books.toscrape.com/catalogue/ash_123/index.html
+2022-12-20,A Storm of Swords (A Song of Ice and Fire #3),Fantasy,Â£31.22,2,In stock,3,87beabf664115d79,https://books.toscrape.com/catalogue/a-storm-of-swords-a-song-of-ice-and-fire-3_116/index.html
+2022-12-20,Vampire Girl (Vampire Girl #1),Fantasy,Â£53.82,2,In stock,1,dab5e75d1339706a,https://books.toscrape.com/catalogue/vampire-girl-vampire-girl-1_92/index.html
+2022-12-20,The Silent Twin (Detective Jennifer Knight #3),Fantasy,Â£36.25,3,In stock,1,9e9932ae1a7d0943,https://books.toscrape.com/catalogue/the-silent-twin-detective-jennifer-knight-3_82/index.html
+2022-12-20,The Mirror & the Maze (The Wrath and the Dawn #1.5),Fantasy,Â£29.38,1,In stock,1,c40b70e0f6d80189,https://books.toscrape.com/catalogue/the-mirror-the-maze-the-wrath-and-the-dawn-15_73/index.html
+2022-12-20,Sister Sable (The Mad Queen #1),Fantasy,Â£13.33,3,In stock,1,3a9a7c5895e82646,https://books.toscrape.com/catalogue/sister-sable-the-mad-queen-1_54/index.html
+2022-12-20,Shadow Rites (Jane Yellowrock #10),Fantasy,Â£21.72,4,In stock,1,229cd6564bf0dce4,https://books.toscrape.com/catalogue/shadow-rites-jane-yellowrock-10_51/index.html
+2022-12-20,Origins (Alphas 0.5),Fantasy,Â£28.99,1,In stock,1,8932e5c12f12ffed,https://books.toscrape.com/catalogue/origins-alphas-05_42/index.html
+2022-12-20,One Second (Seven #7),Fantasy,Â£52.94,2,In stock,1,7ea31f38675b91c1,https://books.toscrape.com/catalogue/one-second-seven-7_41/index.html
+2022-12-20,Myriad (Prentor #1),Fantasy,Â£58.75,4,In stock,1,63e20a0f98218a87,https://books.toscrape.com/catalogue/myriad-prentor-1_36/index.html
+2022-12-20,Without Borders (Wanderlove #1),New Adult,Â£45.07,2,In stock,16,acddfeab2a407640,https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html
+2022-12-20,The Mistake (Off-Campus #2),New Adult,Â£43.29,3,In stock,15,99ff4cc6491e8f5c,https://books.toscrape.com/catalogue/the-mistake-off-campus-2_851/index.html
+2022-12-20,The Matchmaker's Playbook (Wingmen Inc. #1),New Adult,Â£55.85,1,In stock,15,08db62f24627e71f,https://books.toscrape.com/catalogue/the-matchmakers-playbook-wingmen-inc-1_850/index.html
+2022-12-20,The Hook Up (Game On #1),New Adult,Â£36.29,5,In stock,1,6e473eff459e809f,https://books.toscrape.com/catalogue/the-hook-up-game-on-1_68/index.html
+2022-12-20,Shameless,New Adult,Â£58.35,3,In stock,1,c068c013d6921fea,https://books.toscrape.com/catalogue/shameless_52/index.html
+2022-12-20,Off Sides (Off #1),New Adult,Â£39.45,5,In stock,1,b6f1cfadc4dd79d4,https://books.toscrape.com/catalogue/off-sides-off-1_38/index.html
+2022-12-20,The Requiem Red,Young Adult,Â£22.65,1,In stock,19,f77dbf2323deb740,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2022-12-20,Set Me Free,Young Adult,Â£17.46,5,In stock,19,ce6396b0f23f6ecc,https://books.toscrape.com/catalogue/set-me-free_988/index.html
+2022-12-20,The Natural History of Us (The Fine Art of Pretending #2),Young Adult,Â£45.22,3,In stock,16,cedf82b5086e4691,https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html
+2022-12-20,Obsidian (Lux #1),Young Adult,Â£14.86,2,In stock,16,3c346ab1e76ae1f6,https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html
+2022-12-20,Burning,Young Adult,Â£28.81,3,In stock,16,5ceb951f629700a2,https://books.toscrape.com/catalogue/burning_884/index.html
+2022-12-20,A Fierce and Subtle Poison,Young Adult,Â£28.13,4,In stock,16,842790dfaa937484,https://books.toscrape.com/catalogue/a-fierce-and-subtle-poison_875/index.html
+2022-12-20,Scarlett Epstein Hates It Here,Young Adult,Â£43.55,5,In stock,15,1c929cfd16b71907,https://books.toscrape.com/catalogue/scarlett-epstein-hates-it-here_828/index.html
+2022-12-20,"Nightingale, Sing",Young Adult,Â£38.28,1,In stock,15,50b8f80311b31ede,https://books.toscrape.com/catalogue/nightingale-sing_823/index.html
+2022-12-20,Library of Souls (Miss Peregrineâs Peculiar Children #3),Young Adult,Â£48.56,5,In stock,15,ba54932df84e8cea,https://books.toscrape.com/catalogue/library-of-souls-miss-peregrines-peculiar-children-3_816/index.html
+2022-12-20,Frostbite (Vampire Academy #2),Young Adult,Â£29.99,5,In stock,15,116a2fdc9a45bab0,https://books.toscrape.com/catalogue/frostbite-vampire-academy-2_810/index.html
+2022-12-20,Wild Swans,Young Adult,Â£14.36,2,In stock,14,3fb15ace50d6142b,https://books.toscrape.com/catalogue/wild-swans_782/index.html
+2022-12-20,Until Friday Night (The Field Party #1),Young Adult,Â£46.31,2,In stock,14,aba2db9afb1469c7,https://books.toscrape.com/catalogue/until-friday-night-the-field-party-1_775/index.html
+2022-12-20,This Is Where It Ends,Young Adult,Â£27.12,2,In stock,14,f0f38174a7e689a3,https://books.toscrape.com/catalogue/this-is-where-it-ends_771/index.html
+2022-12-20,The Darkest Lie,Young Adult,Â£35.35,5,In stock,14,6edacfd1f8ebb9eb,https://books.toscrape.com/catalogue/the-darkest-lie_747/index.html
+2022-12-20,My Kind of Crazy,Young Adult,Â£40.36,1,In stock,14,137b0b2775701e11,https://books.toscrape.com/catalogue/my-kind-of-crazy_718/index.html
+2022-12-20,Don't Get Caught,Young Adult,Â£55.35,1,In stock,14,ad2887ce04583910,https://books.toscrape.com/catalogue/dont-get-caught_687/index.html
+2022-12-20,Catching Jordan (Hundred Oaks),Young Adult,Â£50.83,3,In stock,14,e2e7b683b4c15b7d,https://books.toscrape.com/catalogue/catching-jordan-hundred-oaks_673/index.html
+2022-12-20,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),Young Adult,Â£58.14,4,In stock,14,41164b8ac02a2c42,https://books.toscrape.com/catalogue/aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html
+2022-12-20,The Epidemic (The Program 0.6),Young Adult,Â£14.44,5,In stock,12,f732d7d18a91d2ba,https://books.toscrape.com/catalogue/the-epidemic-the-program-06_636/index.html
+2022-12-20,Stars Above (The Lunar Chronicles #4.5),Young Adult,Â£48.05,2,In stock,12,b63ea3f7a57ae099,https://books.toscrape.com/catalogue/stars-above-the-lunar-chronicles-45_632/index.html
+2022-12-20,No Love Allowed (Dodge Cove #1),Young Adult,Â£54.65,4,In stock,12,db84624b151cbe06,https://books.toscrape.com/catalogue/no-love-allowed-dodge-cove-1_625/index.html
+2022-12-20,"Exit, Pursued by a Bear",Young Adult,Â£51.34,4,In stock,11,c65c25d990fc7025,https://books.toscrape.com/catalogue/exit-pursued-by-a-bear_591/index.html
+2022-12-20,The Alien Club,Young Adult,Â£54.40,1,In stock,9,e77594ece9b9d1fe,https://books.toscrape.com/catalogue/the-alien-club_569/index.html
+2022-12-20,Don't Forget Steven,Young Adult,Â£33.23,1,In stock,9,e845d305f64154f1,https://books.toscrape.com/catalogue/dont-forget-steven_561/index.html
+2022-12-20,South of Sunshine,Young Adult,Â£28.93,1,In stock,8,331c26103d885cae,https://books.toscrape.com/catalogue/south-of-sunshine_544/index.html
+2022-12-20,My Life Next Door (My Life Next Door ),Young Adult,Â£36.39,5,In stock,8,9a7291b89bd5445c,https://books.toscrape.com/catalogue/my-life-next-door-my-life-next-door_535/index.html
+2022-12-20,Future Shock (Future Shock #1),Young Adult,Â£55.65,5,In stock,8,df6a7c43faa6732b,https://books.toscrape.com/catalogue/future-shock-future-shock-1_519/index.html
+2022-12-20,Nightstruck: A Novel,Young Adult,Â£50.35,4,In stock,7,746029796363aa51,https://books.toscrape.com/catalogue/nightstruck-a-novel_480/index.html
+2022-12-20,Tell the Wolves I'm Home,Young Adult,Â£50.96,2,In stock,6,2a1b3d967cda1da2,https://books.toscrape.com/catalogue/tell-the-wolves-im-home_439/index.html
+2022-12-20,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",Young Adult,Â£47.31,4,In stock,5,e75f3ae1da1cc652,https://books.toscrape.com/catalogue/will-grayson-will-grayson-will-grayson-will-grayson_419/index.html
+2022-12-20,Where She Went (If I Stay #2),Young Adult,Â£41.73,4,In stock,5,60369d96b7b80869,https://books.toscrape.com/catalogue/where-she-went-if-i-stay-2_417/index.html
+2022-12-20,Two Summers,Young Adult,Â£14.64,1,In stock,5,3a7d54a264d9f33e,https://books.toscrape.com/catalogue/two-summers_415/index.html
+2022-12-20,The Darkest Corners,Young Adult,Â£11.33,5,In stock,5,c4182bdb53e2459a,https://books.toscrape.com/catalogue/the-darkest-corners_399/index.html
+2022-12-20,Tell Me Three Things,Young Adult,Â£41.81,1,In stock,5,50d5a7b861ed1c54,https://books.toscrape.com/catalogue/tell-me-three-things_395/index.html
+2022-12-20,Lola and the Boy Next Door (Anna and the French Kiss #2),Young Adult,Â£23.63,4,In stock,5,5e1a88d248599768,https://books.toscrape.com/catalogue/lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html
+2022-12-20,Kill the Boy Band,Young Adult,Â£15.52,5,In stock,5,44f545727e704187,https://books.toscrape.com/catalogue/kill-the-boy-band_381/index.html
+2022-12-20,Isla and the Happily Ever After (Anna and the French Kiss #3),Young Adult,Â£48.13,5,In stock,5,45045146dbf7b009,https://books.toscrape.com/catalogue/isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html
+2022-12-20,An Abundance of Katherines,Young Adult,Â£10.00,5,In stock,5,f36d24c309e87e5b,https://books.toscrape.com/catalogue/an-abundance-of-katherines_362/index.html
+2022-12-20,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),Young Adult,Â£24.17,4,In stock,4,eff24325e0ede639,https://books.toscrape.com/catalogue/harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html
+2022-12-20,Walk the Edge (Thunder Road #2),Young Adult,Â£32.36,3,In stock,3,0e4e2d31c2fb3aad,https://books.toscrape.com/catalogue/walk-the-edge-thunder-road-2_300/index.html
+2022-12-20,Two Boys Kissing,Young Adult,Â£32.74,2,In stock,3,61bc8167c9680283,https://books.toscrape.com/catalogue/two-boys-kissing_294/index.html
+2022-12-20,The New Guy (and Other Senior Year Distractions),Young Adult,Â£44.92,3,In stock,3,3e42ac0f4d43320f,https://books.toscrape.com/catalogue/the-new-guy-and-other-senior-year-distractions_266/index.html
+2022-12-20,"The Land of 10,000 Madonnas",Young Adult,Â£29.64,4,In stock,3,35e69a79d2b1e804,https://books.toscrape.com/catalogue/the-land-of-10000-madonnas_258/index.html
+2022-12-20,Scarlet (The Lunar Chronicles #2),Young Adult,Â£14.57,4,In stock,3,510832818edb6fbc,https://books.toscrape.com/catalogue/scarlet-the-lunar-chronicles-2_218/index.html
+2022-12-20,Legend (Legend #1),Young Adult,Â£43.69,4,In stock,3,0ce8075fab4a2b5b,https://books.toscrape.com/catalogue/legend-legend-1_184/index.html
+2022-12-20,Lady Renegades (Rebel Belle #3),Young Adult,Â£53.04,5,In stock,3,16e843e6b853cc2f,https://books.toscrape.com/catalogue/lady-renegades-rebel-belle-3_181/index.html
+2022-12-20,Golden (Heart of Dread #3),Young Adult,Â£42.21,4,In stock,3,984b3b6e7479b571,https://books.toscrape.com/catalogue/golden-heart-of-dread-3_161/index.html
+2022-12-20,Cinder (The Lunar Chronicles #1),Young Adult,Â£26.09,1,In stock,3,7e9579921e5407cb,https://books.toscrape.com/catalogue/cinder-the-lunar-chronicles-1_139/index.html
+2022-12-20,Boy Meets Boy,Young Adult,Â£21.12,3,In stock,3,8e0bc2fe4e7d35b5,https://books.toscrape.com/catalogue/boy-meets-boy_134/index.html
+2022-12-20,Annie on My Mind,Young Adult,Â£36.83,5,In stock,3,7bf87402413c27ff,https://books.toscrape.com/catalogue/annie-on-my-mind_120/index.html
+2022-12-20,New Moon (Twilight #2),Young Adult,Â£12.86,4,In stock,2,6fa3ea52c8e31e06,https://books.toscrape.com/catalogue/new-moon-twilight-2_105/index.html
+2022-12-20,Girl Online On Tour (Girl Online #2),Young Adult,Â£53.47,1,In stock,2,97b8f130d32e9f4e,https://books.toscrape.com/catalogue/girl-online-on-tour-girl-online-2_101/index.html
+2022-12-20,The Haters,Young Adult,Â£27.89,5,In stock,1,fff8a057a40c4a60,https://books.toscrape.com/catalogue/the-haters_67/index.html
+2022-12-20,The Art of Not Breathing,Young Adult,Â£40.83,4,In stock,1,5bc1fbccfbf2355c,https://books.toscrape.com/catalogue/the-art-of-not-breathing_58/index.html
+2022-12-20,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,Science,Â£42.96,4,In stock,16,aadee1c326d286e3,https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html
+2022-12-20,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,Science,Â£57.36,5,In stock,16,e4f74c16de34d440,https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html
+2022-12-20,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,Science,Â£44.74,4,In stock,14,3edcccc4f341fb1a,https://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html
+2022-12-20,Tipping Point for Planet Earth: How Close Are We to the Edge?,Science,Â£37.55,1,In stock,12,148715df5a02ea5e,https://books.toscrape.com/catalogue/tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html
+2022-12-20,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Science,Â£55.91,1,In stock,9,ca74f2e3c35a3e77,https://books.toscrape.com/catalogue/the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html
+2022-12-20,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,Science,Â£28.41,1,In stock,8,0c11e2d068768dbb,https://books.toscrape.com/catalogue/diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html
+2022-12-20,The Origin of Species,Science,Â£10.01,4,In stock,7,0345872b14f9e774,https://books.toscrape.com/catalogue/the-origin-of-species_499/index.html
+2022-12-20,The Grand Design,Science,Â£13.76,3,In stock,5,3213b1f13f5f0f7c,https://books.toscrape.com/catalogue/the-grand-design_405/index.html
+2022-12-20,Peak: Secrets from the New Science of Expertise,Science,Â£16.28,2,In stock,5,6036239d2ab349b7,https://books.toscrape.com/catalogue/peak-secrets-from-the-new-science-of-expertise_389/index.html
+2022-12-20,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Science,Â£13.03,4,In stock,3,c6bf14cb901c63ac,https://books.toscrape.com/catalogue/the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html
+2022-12-20,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Science,Â£57.35,5,In stock,3,63c0826ef59eae66,https://books.toscrape.com/catalogue/the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html
+2022-12-20,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Science,Â£25.83,2,In stock,3,61002f3b7ba5d780,https://books.toscrape.com/catalogue/surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html
+2022-12-20,Seven Brief Lessons on Physics,Science,Â£30.60,4,In stock,3,281a244ce1954711,https://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html
+2022-12-20,The Selfish Gene,Science,Â£29.45,1,In stock,1,6f2c0a9adbb2bca9,https://books.toscrape.com/catalogue/the-selfish-gene_81/index.html
+2022-12-20,A Light in the Attic,Poetry,Â£51.77,3,In stock,22,a897fe39b1053632,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2022-12-20,The Black Maria,Poetry,Â£52.15,1,In stock,19,1dfe412b8ac00530,https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2022-12-20,Shakespeare's Sonnets,Poetry,Â£20.66,4,In stock,19,30a7f60cd76ca58c,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+2022-12-20,Olio,Poetry,Â£23.88,1,In stock,19,feb7cc7701ecf901,https://books.toscrape.com/catalogue/olio_984/index.html
+2022-12-20,You can't bury them all: Poems,Poetry,Â£33.63,2,In stock,17,55f9da0c5eea2e10,https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+2022-12-20,Slow States of Collapse: Poems,Poetry,Â£57.31,3,In stock,17,b4fd5943413e089a,https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html
+2022-12-20,Untitled Collection: Sabbath Poems 2014,Poetry,Â£14.27,4,In stock,16,657fe5ead67a7767,https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html
+2022-12-20,Poems That Make Grown Women Cry,Poetry,Â£14.19,4,In stock,15,31001a1210623bd4,https://books.toscrape.com/catalogue/poems-that-make-grown-women-cry_824/index.html
+2022-12-20,Night Sky with Exit Wounds,Poetry,Â£41.05,1,In stock,15,cfeb1e1e0e695b58,https://books.toscrape.com/catalogue/night-sky-with-exit-wounds_822/index.html
+2022-12-20,salt.,Poetry,Â£46.78,4,In stock,14,86cbddb61ea78bb7,https://books.toscrape.com/catalogue/salt_731/index.html
+2022-12-20,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Poetry,Â£50.89,5,In stock,14,aa35446aab16017f,https://books.toscrape.com/catalogue/quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html
+2022-12-20,Out of Print: City Lights Spotlight No. 14,Poetry,Â£53.64,5,In stock,8,c0fc0cd215ee1724,https://books.toscrape.com/catalogue/out-of-print-city-lights-spotlight-no-14_536/index.html
+2022-12-20,Les Fleurs du Mal,Poetry,Â£29.04,5,In stock,8,c44c5e1425475206,https://books.toscrape.com/catalogue/les-fleurs-du-mal_530/index.html
+2022-12-20,Howl and Other Poems,Poetry,Â£40.45,2,In stock,8,b7870fa6dc088fbb,https://books.toscrape.com/catalogue/howl-and-other-poems_522/index.html
+2022-12-20,Leave This Song Behind: Teen Poetry at Its Best,Poetry,Â£51.17,5,In stock,7,b74ee891e2a6dd69,https://books.toscrape.com/catalogue/leave-this-song-behind-teen-poetry-at-its-best_474/index.html
+2022-12-20,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),Poetry,Â£15.42,5,In stock,6,3d250ab0f12be445,https://books.toscrape.com/catalogue/the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html
+2022-12-20,The Crossover,Poetry,Â£38.77,4,In stock,5,b228042c088b1913,https://books.toscrape.com/catalogue/the-crossover_398/index.html
+2022-12-20,Booked,Poetry,Â£17.49,5,In stock,5,b54d7416bb445989,https://books.toscrape.com/catalogue/booked_365/index.html
+2022-12-20,Twenty Love Poems and a Song of Despair,Poetry,Â£30.95,4,In stock,1,e63c3f25338baf9a,https://books.toscrape.com/catalogue/twenty-love-poems-and-a-song-of-despair_91/index.html
+2022-12-20,"Vampire Knight, Vol. 1 (Vampire Knight #1)",Paranormal,Â£15.40,1,In stock,1,e7e87087b1a44711,https://books.toscrape.com/catalogue/vampire-knight-vol-1-vampire-knight-1_93/index.html
+2022-12-20,Wall and Piece,Art,Â£44.18,4,In stock,18,ccd9ffa25efabdea,https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+2022-12-20,Feathers: Displays of Brilliant Plumage,Art,Â£49.05,3,In stock,14,9194ae88379dbf1a,https://books.toscrape.com/catalogue/feathers-displays-of-brilliant-plumage_695/index.html
+2022-12-20,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,Art,Â£48.63,4,In stock,9,d6d9ffea95f2f8bf,https://books.toscrape.com/catalogue/art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html
+2022-12-20,The New Drawing on the Right Side of the Brain,Art,Â£43.02,3,In stock,8,3eec766dda26fa64,https://books.toscrape.com/catalogue/the-new-drawing-on-the-right-side-of-the-brain_550/index.html
+2022-12-20,History of Beauty,Art,Â£10.29,4,In stock,8,8a150fd8ff5d7686,https://books.toscrape.com/catalogue/history-of-beauty_521/index.html
+2022-12-20,The Story of Art,Art,Â£41.14,4,In stock,7,9147c5251cc99eb1,https://books.toscrape.com/catalogue/the-story-of-art_500/index.html
+2022-12-20,The Art Book,Art,Â£32.34,2,In stock,7,4b8fa561a1e52d1c,https://books.toscrape.com/catalogue/the-art-book_490/index.html
+2022-12-20,Ways of Seeing,Art,Â£39.51,5,In stock,1,66a4e422b212726a,https://books.toscrape.com/catalogue/ways-of-seeing_94/index.html
+2022-12-20,The Lucifer Effect: Understanding How Good People Turn Evil,Psychology,Â£10.40,1,In stock,14,4e812d32d64e2431,https://books.toscrape.com/catalogue/the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html
+2022-12-20,The Golden Condom: And Other Essays on Love Lost and Found,Psychology,Â£39.43,1,In stock,12,235fa48eeed11d82,https://books.toscrape.com/catalogue/the-golden-condom-and-other-essays-on-love-lost-and-found_637/index.html
+2022-12-20,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,Psychology,Â£56.27,3,In stock,11,ce8666d9b42fc9a0,https://books.toscrape.com/catalogue/it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html
+2022-12-20,An Unquiet Mind: A Memoir of Moods and Madness,Psychology,Â£21.30,3,In stock,6,46cb43c2ab133ccc,https://books.toscrape.com/catalogue/an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html
+2022-12-20,"Thinking, Fast and Slow",Psychology,Â£21.14,1,In stock,3,719d72f3ee512dc6,https://books.toscrape.com/catalogue/thinking-fast-and-slow_289/index.html
+2022-12-20,Civilization and Its Discontents,Psychology,Â£59.95,2,In stock,3,396385e3de5d18c3,https://books.toscrape.com/catalogue/civilization-and-its-discontents_140/index.html
+2022-12-20,8 Keys to Mental Health Through Exercise,Psychology,Â£31.04,1,In stock,3,f5873c8fc7760000,https://books.toscrape.com/catalogue/8-keys-to-mental-health-through-exercise_114/index.html
+2022-12-20,The Argonauts,Autobiography,Â£10.93,2,In stock,15,c99761a700ade23f,https://books.toscrape.com/catalogue/the-argonauts_837/index.html
+2022-12-20,M Train,Autobiography,Â£27.18,1,In stock,11,5569c3fea112718e,https://books.toscrape.com/catalogue/m-train_598/index.html
+2022-12-20,Lab Girl,Autobiography,Â£40.85,1,In stock,11,825d6c44da3ca5a6,https://books.toscrape.com/catalogue/lab-girl_595/index.html
+2022-12-20,Approval Junkie: Adventures in Caring Too Much,Autobiography,Â£58.81,5,In stock,5,612369a5947a012e,https://books.toscrape.com/catalogue/approval-junkie-adventures-in-caring-too-much_363/index.html
+2022-12-20,Running with Scissors,Autobiography,Â£12.91,4,In stock,3,28921443f052bea6,https://books.toscrape.com/catalogue/running-with-scissors_215/index.html
+2022-12-20,Me Talk Pretty One Day,Autobiography,Â£57.60,2,In stock,3,abc4a7ee16c21088,https://books.toscrape.com/catalogue/me-talk-pretty-one-day_193/index.html
+2022-12-20,Lust & Wonder,Autobiography,Â£11.87,2,In stock,3,0dcadb06206abd3c,https://books.toscrape.com/catalogue/lust-wonder_191/index.html
+2022-12-20,Life Without a Recipe,Autobiography,Â£59.04,5,In stock,3,c53d9fefcda371e9,https://books.toscrape.com/catalogue/life-without-a-recipe_188/index.html
+2022-12-20,A Heartbreaking Work of Staggering Genius,Autobiography,Â£54.29,5,In stock,3,c9770bb1d5a492a0,https://books.toscrape.com/catalogue/a-heartbreaking-work-of-staggering-genius_115/index.html
+2022-12-20,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,Parenting,Â£37.35,2,In stock,3,ef49db2aaa9bb547,https://books.toscrape.com/catalogue/catastrophic-happiness-finding-joy-in-childhoods-messy-years_138/index.html
+2022-12-20,Fifty Shades Freed (Fifty Shades #3),Adult Fiction,Â£15.36,5,In stock,3,ed813a848580ba50,https://books.toscrape.com/catalogue/fifty-shades-freed-fifty-shades-3_156/index.html
+2022-12-20,The Long Haul (Diary of a Wimpy Kid #9),Humor,Â£44.07,1,In stock,14,f21effc079a2b38a,https://books.toscrape.com/catalogue/the-long-haul-diary-of-a-wimpy-kid-9_757/index.html
+2022-12-20,Old School (Diary of a Wimpy Kid #10),Humor,Â£11.83,5,In stock,14,02b74068fa98d8a4,https://books.toscrape.com/catalogue/old-school-diary-of-a-wimpy-kid-10_723/index.html
+2022-12-20,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,Humor,Â£25.98,4,In stock,14,b8a8ff84233f0570,https://books.toscrape.com/catalogue/i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html
+2022-12-20,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Humor,Â£14.75,5,In stock,14,fbb21a2f71f4d981,https://books.toscrape.com/catalogue/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html
+2022-12-20,Dress Your Family in Corduroy and Denim,Humor,Â£43.68,3,In stock,9,7e9068872228c474,https://books.toscrape.com/catalogue/dress-your-family-in-corduroy-and-denim_562/index.html
+2022-12-20,Toddlers Are A**holes: It's Not Your Fault,Humor,Â£25.55,1,In stock,7,4242cc3d0437db12,https://books.toscrape.com/catalogue/toddlers-are-aholes-its-not-your-fault_503/index.html
+2022-12-20,When You Are Engulfed in Flames,Humor,Â£30.89,5,In stock,3,dab0196cd5fc8e5e,https://books.toscrape.com/catalogue/when-you-are-engulfed-in-flames_303/index.html
+2022-12-20,Naked,Humor,Â£31.69,3,In stock,3,54aeeb4610d3ae08,https://books.toscrape.com/catalogue/naked_197/index.html
+2022-12-20,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Humor,Â£55.50,5,In stock,3,190fbebbf798c31a,https://books.toscrape.com/catalogue/lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html
+2022-12-20,Holidays on Ice,Humor,Â£51.07,2,In stock,3,0cb4856be3694a57,https://books.toscrape.com/catalogue/holidays-on-ice_167/index.html
+2022-12-20,Security,Horror,Â£39.25,2,In stock,16,6f78a0d744c35456,https://books.toscrape.com/catalogue/security_925/index.html
+2022-12-20,Follow You Home,Horror,Â£21.36,1,In stock,15,8585760646e3aa2a,https://books.toscrape.com/catalogue/follow-you-home_809/index.html
+2022-12-20,The Loney,Horror,Â£23.40,1,In stock,14,2d88a31f325dfd3b,https://books.toscrape.com/catalogue/the-loney_756/index.html
+2022-12-20,Pet Sematary,Horror,Â£10.56,3,In stock,14,af58a74e4b2a23a0,https://books.toscrape.com/catalogue/pet-sematary_726/index.html
+2022-12-20,Doctor Sleep (The Shining #2),Horror,Â£40.12,2,In stock,14,bf5de316a5e9a4ab,https://books.toscrape.com/catalogue/doctor-sleep-the-shining-2_686/index.html
+2022-12-20,Psycho: Sanitarium (Psycho #1.5),Horror,Â£36.97,5,In stock,12,b8d7b3f5c7a95d65,https://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html
+2022-12-20,Can You Keep a Secret? (Fear Street Relaunch #4),Horror,Â£48.64,1,In stock,12,d069086944f2e330,https://books.toscrape.com/catalogue/can-you-keep-a-secret-fear-street-relaunch-4_614/index.html
+2022-12-20,Red Dragon (Hannibal Lecter #1),Horror,Â£23.37,3,In stock,5,e958ae92f328c181,https://books.toscrape.com/catalogue/red-dragon-hannibal-lecter-1_390/index.html
+2022-12-20,Dracula the Un-Dead,Horror,Â£35.63,5,In stock,5,e46b1074b99ac4b6,https://books.toscrape.com/catalogue/dracula-the-un-dead_370/index.html
+2022-12-20,Night Shift (Night Shift #1-20),Horror,Â£12.75,4,In stock,4,869d20b3b8128230,https://books.toscrape.com/catalogue/night-shift-night-shift-1-20_335/index.html
+2022-12-20,Needful Things,Horror,Â£47.51,4,In stock,4,70b585c9d0f15725,https://books.toscrape.com/catalogue/needful-things_334/index.html
+2022-12-20,Misery,Horror,Â£34.79,2,In stock,4,81d4191030b9704b,https://books.toscrape.com/catalogue/misery_332/index.html
+2022-12-20,It,Horror,Â£25.01,3,In stock,4,670a2773607d785d,https://books.toscrape.com/catalogue/it_330/index.html
+2022-12-20,'Salem's Lot,Horror,Â£49.56,4,In stock,4,6e9403f00acd6752,https://books.toscrape.com/catalogue/salems-lot_309/index.html
+2022-12-20,The Stand,Horror,Â£57.86,2,In stock,3,49f24193f0b961e6,https://books.toscrape.com/catalogue/the-stand_282/index.html
+2022-12-20,The Girl with All the Gifts,Horror,Â£49.47,3,In stock,3,92dcc54a27107a37,https://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html
+2022-12-20,House of Leaves,Horror,Â£54.89,1,In stock,3,557c03c284be1bf2,https://books.toscrape.com/catalogue/house-of-leaves_169/index.html
+2022-12-20,Sapiens: A Brief History of Humankind,History,Â£54.23,5,In stock,20,4165285e1663650f,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2022-12-20,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",History,Â£25.52,1,In stock,16,9a9d6e9bc555731e,https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+2022-12-20,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,History,Â£19.73,1,In stock,16,a3d2a4250807f1e9,https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html
+2022-12-20,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",History,Â£36.28,2,In stock,16,7392c0032f92d816,https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html
+2022-12-20,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,History,Â£59.64,1,In stock,15,de3f25248ba0789f,https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html
+2022-12-20,Zealot: The Life and Times of Jesus of Nazareth,History,Â£24.70,3,In stock,14,dd5bfa6cc2c0ecc3,https://books.toscrape.com/catalogue/zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html
+2022-12-20,A Distant Mirror: The Calamitous 14th Century,History,Â£14.58,3,In stock,14,d5e0526e1ab682a3,https://books.toscrape.com/catalogue/a-distant-mirror-the-calamitous-14th-century_652/index.html
+2022-12-20,1491: New Revelations of the Americas Before Columbus,History,Â£21.80,3,In stock,14,6e8e5626ac4d279e,https://books.toscrape.com/catalogue/1491-new-revelations-of-the-americas-before-columbus_650/index.html
+2022-12-20,Brilliant Beacons: A History of the American Lighthouse,History,Â£11.45,3,In stock,8,7f5157bf53065d36,https://books.toscrape.com/catalogue/brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html
+2022-12-20,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",History,Â£44.48,5,In stock,8,f16c2edb2a603f92,https://books.toscrape.com/catalogue/most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html
+2022-12-20,A Short History of Nearly Everything,History,Â£52.40,5,In stock,7,6c7fa6844380f50a,https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html
+2022-12-20,The Rise and Fall of the Third Reich: A History of Nazi Germany,History,Â£39.67,2,In stock,6,774fa432bd7d9c47,https://books.toscrape.com/catalogue/the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html
+2022-12-20,Catherine the Great: Portrait of a Woman,History,Â£58.55,4,In stock,6,f3c70d296ec796c4,https://books.toscrape.com/catalogue/catherine-the-great-portrait-of-a-woman_424/index.html
+2022-12-20,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,History,Â£42.91,5,In stock,5,0d210d2448c3018f,https://books.toscrape.com/catalogue/the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html
+2022-12-20,The Hiding Place,History,Â£55.91,4,In stock,5,c4589ee5977a47be,https://books.toscrape.com/catalogue/the-hiding-place_406/index.html
+2022-12-20,America's War for the Greater Middle East: A Military History,History,Â£51.22,2,In stock,5,add33db6ff80db24,https://books.toscrape.com/catalogue/americas-war-for-the-greater-middle-east-a-military-history_361/index.html
+2022-12-20,The Guns of August,History,Â£14.54,2,In stock,3,b5da59dd177eb36b,https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html
+2022-12-20,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",History,Â£43.70,2,In stock,3,1812b8f5641287e3,https://books.toscrape.com/catalogue/house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html
+2022-12-20,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Food and Drink,Â£30.52,3,In stock,19,5674a18a29a43ced,https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+2022-12-20,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Food and Drink,Â£56.41,1,In stock,16,142d767a56a9254d,https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
+2022-12-20,My Paris Kitchen: Recipes and Stories,Food and Drink,Â£33.37,2,In stock,16,784bc2279baa878d,https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html
+2022-12-20,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",Food and Drink,Â£14.02,4,In stock,16,72f9d5be3472d34e,https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html
+2022-12-20,"Layered: Baking, Building, and Styling Spectacular Cakes",Food and Drink,Â£40.11,1,In stock,16,7b75cc7f223791f4,https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html
+2022-12-20,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,Food and Drink,Â£37.34,5,In stock,15,e4c7f3487d17fd42,https://books.toscrape.com/catalogue/the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html
+2022-12-20,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,Food and Drink,Â£37.60,2,In stock,15,e28e330cbdf01126,https://books.toscrape.com/catalogue/the-love-and-lemons-cookbook-an-apple-to-zucchini-celebration-of-impromptu-cooking_849/index.html
+2022-12-20,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,Food and Drink,Â£41.25,1,In stock,15,96a38e7c813d8f1d,https://books.toscrape.com/catalogue/the-cookies-cups-cookbook-125-sweet-savory-recipes-reminding-you-to-always-eat-dessert-first_841/index.html
+2022-12-20,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",Food and Drink,Â£42.16,3,In stock,15,46c1530d7546ea6d,https://books.toscrape.com/catalogue/deliciously-ella-every-day-quick-and-easy-recipes-for-gluten-free-snacks-packed-lunches-and-simple-meals_801/index.html
+2022-12-20,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,Food and Drink,Â£28.77,3,In stock,14,ddc8340dabc8641b,https://books.toscrape.com/catalogue/the-help-yourself-cookbook-for-kids-60-easy-plant-based-recipes-kids-can-make-to-stay-healthy-and-save-the-earth_751/index.html
+2022-12-20,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",Food and Drink,Â£19.55,1,In stock,14,245e6bf08b8d2955,https://books.toscrape.com/catalogue/its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html
+2022-12-20,Barefoot Contessa Back to Basics,Food and Drink,Â£28.01,1,In stock,14,999912e63a3262ae,https://books.toscrape.com/catalogue/barefoot-contessa-back-to-basics_667/index.html
+2022-12-20,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,Food and Drink,Â£50.62,5,In stock,14,0e0da9192a025efc,https://books.toscrape.com/catalogue/barefoot-contessa-at-home-everyday-recipes-youll-make-over-and-over-again_666/index.html
+2022-12-20,My Kitchen Year: 136 Recipes That Saved My Life,Food and Drink,Â£11.53,2,In stock,13,8bbd7df8a324f31d,https://books.toscrape.com/catalogue/my-kitchen-year-136-recipes-that-saved-my-life_646/index.html
+2022-12-20,Everyday Italian: 125 Simple and Delicious Recipes,Food and Drink,Â£20.10,5,In stock,12,76319fe9d8b465a3,https://books.toscrape.com/catalogue/everyday-italian-125-simple-and-delicious-recipes_618/index.html
+2022-12-20,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",Food and Drink,Â£38.77,1,In stock,12,a4eef523118805ef,https://books.toscrape.com/catalogue/a-la-mode-120-recipes-in-60-pairings-pies-tarts-cakes-crisps-and-more-topped-with-ice-cream-gelato-frozen-custard-and-more_611/index.html
+2022-12-20,Cravings: Recipes for What You Want to Eat,Food and Drink,Â£20.50,3,In stock,11,2587c54f5530dafc,https://books.toscrape.com/catalogue/cravings-recipes-for-what-you-want-to-eat_589/index.html
+2022-12-20,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",Food and Drink,Â£12.34,4,In stock,9,65cfc9f242c2984a,https://books.toscrape.com/catalogue/the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html
+2022-12-20,32 Yolks,Food and Drink,Â£53.63,2,In stock,8,b1a227b7609ff263,https://books.toscrape.com/catalogue/32-yolks_510/index.html
+2022-12-20,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",Food and Drink,Â£11.38,5,In stock,7,924438fc6cbec836,https://books.toscrape.com/catalogue/naturally-lean-125-nourishing-gluten-free-plant-based-recipes-all-under-300-calories_479/index.html
+2022-12-20,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),Food and Drink,Â£46.01,4,In stock,7,2a9fcb3382d351c8,https://books.toscrape.com/catalogue/how-to-cook-everything-vegetarian-simple-meatless-recipes-for-great-food-how-to-cook-everything_471/index.html
+2022-12-20,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,Food and Drink,Â£28.25,2,In stock,7,eff5710404e2ff78,https://books.toscrape.com/catalogue/how-to-be-a-domestic-goddess-baking-and-the-art-of-comfort-cooking_470/index.html
+2022-12-20,The Barefoot Contessa Cookbook,Food and Drink,Â£59.92,5,In stock,6,6478ccb4416e6a5d,https://books.toscrape.com/catalogue/the-barefoot-contessa-cookbook_440/index.html
+2022-12-20,Better Homes and Gardens New Cook Book,Food and Drink,Â£39.61,3,In stock,6,faf841f81c52638b,https://books.toscrape.com/catalogue/better-homes-and-gardens-new-cook-book_423/index.html
+2022-12-20,The Power Greens Cookbook: 140 Delicious Superfood Recipes,Food and Drink,Â£11.05,5,In stock,5,f701fae56b645ef7,https://books.toscrape.com/catalogue/the-power-greens-cookbook-140-delicious-superfood-recipes_410/index.html
+2022-12-20,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,Food and Drink,Â£24.91,5,In stock,5,12a90b90283b2e6d,https://books.toscrape.com/catalogue/mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html
+2022-12-20,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,Food and Drink,Â£13.66,2,In stock,3,4672d10b9b1e7a05,https://books.toscrape.com/catalogue/vegan-vegetarian-omnivore-dinner-for-everyone-at-the-table_297/index.html
+2022-12-20,The Smitten Kitchen Cookbook,Food and Drink,Â£23.59,1,In stock,3,742702d662a71410,https://books.toscrape.com/catalogue/the-smitten-kitchen-cookbook_281/index.html
+2022-12-20,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",Food and Drink,Â£34.32,3,In stock,3,311634df10651e05,https://books.toscrape.com/catalogue/the-art-of-simple-food-notes-lessons-and-recipes-from-a-delicious-revolution_229/index.html
+2022-12-20,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,Food and Drink,Â£33.14,3,In stock,3,6c4d17a46cac8787,https://books.toscrape.com/catalogue/hungry-girl-clean-hungry-easy-all-natural-recipes-for-healthy-eating-in-the-real-world_171/index.html
+2022-12-20,Redeeming Love,Christian Fiction,Â£20.47,5,In stock,15,b53db2271c9624f7,https://books.toscrape.com/catalogue/redeeming-love_826/index.html
+2022-12-20,Close to You,Christian Fiction,Â£49.46,4,In stock,15,a57b1dcbd6849222,https://books.toscrape.com/catalogue/close-to-you_798/index.html
+2022-12-20,Shadows of the Past (Logan Point #1),Christian Fiction,Â£39.67,5,In stock,8,bee6e93e9976f4fa,https://books.toscrape.com/catalogue/shadows-of-the-past-logan-point-1_541/index.html
+2022-12-20,Like Never Before (Walker Family #2),Christian Fiction,Â£28.77,2,In stock,7,b6670507e85b30e6,https://books.toscrape.com/catalogue/like-never-before-walker-family-2_476/index.html
+2022-12-20,Counted With the Stars (Out from Egypt #1),Christian Fiction,Â£17.97,5,In stock,7,4807043b8218e9ce,https://books.toscrape.com/catalogue/counted-with-the-stars-out-from-egypt-1_463/index.html
+2022-12-20,If I Run (If I Run #1),Christian Fiction,Â£49.97,4,In stock,3,61569d12d4ae7161,https://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html
+2022-12-20,The Dirty Little Secrets of Getting Your Dream Job,Business,Â£33.34,4,In stock,19,2597b5a345f45e1b,https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2022-12-20,The Third Wave: An Entrepreneurâs Vision of the Future,Business,Â£12.61,5,In stock,15,3bebf34ee9330cbd,https://books.toscrape.com/catalogue/the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html
+2022-12-20,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,Business,Â£27.55,3,In stock,15,56e4f9eab2e8e674,https://books.toscrape.com/catalogue/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job_836/index.html
+2022-12-20,Shoe Dog: A Memoir by the Creator of NIKE,Business,Â£23.99,2,In stock,15,0e0dcc3339602b28,https://books.toscrape.com/catalogue/shoe-dog-a-memoir-by-the-creator-of-nike_831/index.html
+2022-12-20,Made to Stick: Why Some Ideas Survive and Others Die,Business,Â£38.85,5,In stock,14,b96fc7a0ea7d4b45,https://books.toscrape.com/catalogue/made-to-stick-why-some-ideas-survive-and-others-die_715/index.html
+2022-12-20,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,Business,Â£43.14,1,In stock,12,8976d9161c027142,https://books.toscrape.com/catalogue/quench-your-own-thirst-business-lessons-learned-over-a-beer-or-two_629/index.html
+2022-12-20,The Art of Startup Fundraising,Business,Â£21.00,3,In stock,11,1c584f82a7a1c4f0,https://books.toscrape.com/catalogue/the-art-of-startup-fundraising_606/index.html
+2022-12-20,Born for This: How to Find the Work You Were Meant to Do,Business,Â£21.59,5,In stock,11,816180220e8cb419,https://books.toscrape.com/catalogue/born-for-this-how-to-find-the-work-you-were-meant-to-do_588/index.html
+2022-12-20,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,Business,Â£36.91,1,In stock,8,a2308a936e898d48,https://books.toscrape.com/catalogue/the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html
+2022-12-20,"Rich Dad, Poor Dad",Business,Â£51.74,1,In stock,7,8486f61aa81a3daa,https://books.toscrape.com/catalogue/rich-dad-poor-dad_483/index.html
+2022-12-20,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Business,Â£33.92,3,In stock,3,70c7c3ca7f9b2728,https://books.toscrape.com/catalogue/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html
+2022-12-20,Rework,Business,Â£44.88,2,In stock,3,8e9dd8431170c09e,https://books.toscrape.com/catalogue/rework_212/index.html
+2022-12-20,Louisa: The Extraordinary Life of Mrs. Adams,Biography,Â£16.85,2,In stock,15,d69dd8dac66f9f84,https://books.toscrape.com/catalogue/louisa-the-extraordinary-life-of-mrs-adams_818/index.html
+2022-12-20,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",Biography,Â£21.15,2,In stock,11,b06599b108e83f98,https://books.toscrape.com/catalogue/setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html
+2022-12-20,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,Biography,Â£39.55,1,In stock,7,57f85720e54d6442,https://books.toscrape.com/catalogue/the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html
+2022-12-20,Benjamin Franklin: An American Life,Biography,Â£48.19,3,In stock,7,5b546a46a86a9d8c,https://books.toscrape.com/catalogue/benjamin-franklin-an-american-life_460/index.html
+2022-12-20,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),Biography,Â£42.57,3,In stock,3,1a5044d233936b1a,https://books.toscrape.com/catalogue/the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html
+2022-12-20,In Her Wake,Thriller,Â£12.84,1,In stock,19,23356462d1320d61,https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+2022-12-20,The Elephant Tree,Thriller,Â£23.82,5,In stock,18,5dada2b7be26bd03,https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+2022-12-20,Behind Closed Doors,Thriller,Â£52.22,4,In stock,18,be5cc846f45496fb,https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+2022-12-20,You (You #1),Thriller,Â£43.61,5,In stock,14,024387ca4cafd5cc,https://books.toscrape.com/catalogue/you-you-1_784/index.html
+2022-12-20,The Guilty (Will Robie #4),Thriller,Â£13.82,2,In stock,14,847935fc68707426,https://books.toscrape.com/catalogue/the-guilty-will-robie-4_750/index.html
+2022-12-20,The 14th Colony (Cotton Malone #11),Thriller,Â£39.24,1,In stock,14,1b8187fa4bf6ab05,https://books.toscrape.com/catalogue/the-14th-colony-cotton-malone-11_744/index.html
+2022-12-20,Give It Back,Thriller,Â£18.32,2,In stock,6,012170e4fc87ace0,https://books.toscrape.com/catalogue/give-it-back_430/index.html
+2022-12-20,Killing Floor (Jack Reacher #1),Thriller,Â£31.49,4,In stock,5,8dde2ff3f6fcc0a3,https://books.toscrape.com/catalogue/killing-floor-jack-reacher-1_382/index.html
+2022-12-20,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),Thriller,Â£59.71,3,In stock,4,9c4d061c1e2fe6bf,https://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html
+2022-12-20,Far From True (Promise Falls Trilogy #2),Thriller,Â£34.93,2,In stock,4,ad15a9a139919918,https://books.toscrape.com/catalogue/far-from-true-promise-falls-trilogy-2_320/index.html
+2022-12-20,The Travelers,Thriller,Â£15.77,1,In stock,3,2b685187f55c5d31,https://books.toscrape.com/catalogue/the-travelers_285/index.html
+2022-12-20,When We Collided,Contemporary,Â£31.77,1,In stock,16,3ecb690d1542c568,https://books.toscrape.com/catalogue/when-we-collided_955/index.html
+2022-12-20,Someone Like You (The Harrisons #2),Contemporary,Â£52.79,5,In stock,14,a278db6b2b09cf9f,https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html
+2022-12-20,We Are All Completely Beside Ourselves,Contemporary,Â£24.04,1,In stock,3,be3db344a845580b,https://books.toscrape.com/catalogue/we-are-all-completely-beside-ourselves_301/index.html
+2022-12-20,The Four Agreements: A Practical Guide to Personal Freedom,Spirituality,Â£17.66,5,In stock,18,6258a1f6a6dcfe50,https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+2022-12-20,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Spirituality,Â£32.24,5,In stock,16,7d6d2a6c0276f81b,https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html
+2022-12-20,Chasing Heaven: What Dying Taught Me About Living,Spirituality,Â£37.80,2,In stock,15,513271dadc1322ae,https://books.toscrape.com/catalogue/chasing-heaven-what-dying-taught-me-about-living_797/index.html
+2022-12-20,If I Gave You God's Phone Number....: Searching for Spirituality in America,Spirituality,Â£20.91,1,In stock,9,8fab4c4f6f82a4ce,https://books.toscrape.com/catalogue/if-i-gave-you-gods-phone-number-searching-for-spirituality-in-america_564/index.html
+2022-12-20,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,Spirituality,Â£46.33,2,In stock,7,48cb52d78c992487,https://books.toscrape.com/catalogue/unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html
+2022-12-20,A New Earth: Awakening to Your Life's Purpose,Spirituality,Â£55.65,5,In stock,4,f6ae39568db1130e,https://books.toscrape.com/catalogue/a-new-earth-awakening-to-your-lifes-purpose_311/index.html
+2022-12-20,Logan Kade (Fallen Crest High #5.5),Academic,Â£13.12,2,In stock,5,7093cf549cd2e7de,https://books.toscrape.com/catalogue/logan-kade-fallen-crest-high-55_384/index.html
+2022-12-20,Online Marketing for Busy Authors: A Step-By-Step Guide,Self Help,Â£46.35,1,In stock,16,9ffa38d3b832433a,https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html
+2022-12-20,How to Be Miserable: 40 Strategies You Already Use,Self Help,Â£46.03,1,In stock,16,a6f99b9e687f9d46,https://books.toscrape.com/catalogue/how-to-be-miserable-40-strategies-you-already-use_897/index.html
+2022-12-20,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",Self Help,Â£52.15,3,In stock,14,8ecf0356a3878811,https://books.toscrape.com/catalogue/overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725/index.html
+2022-12-20,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Self Help,Â£12.08,3,In stock,7,88ec621893e595d0,https://books.toscrape.com/catalogue/you-are-a-badass-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life_508/index.html
+2022-12-20,How to Stop Worrying and Start Living,Self Help,Â£46.49,5,In stock,6,e792c0969cefe1b8,https://books.toscrape.com/catalogue/how-to-stop-worrying-and-start-living_431/index.html
+2022-12-20,All the Light We Cannot See,Historical,Â£29.87,5,In stock,14,39861fc1c0845d15,https://books.toscrape.com/catalogue/all-the-light-we-cannot-see_660/index.html
+2022-12-20,The Girl You Left Behind (The Girl You Left Behind #1),Historical,Â£15.79,1,In stock,6,eb7459e0c570251d,https://books.toscrape.com/catalogue/the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html
+2022-12-20,(Un)Qualified: How God Uses Broken People to Do Big Things,Christian,Â£54.00,5,In stock,16,e4ac92d89b946781,https://books.toscrape.com/catalogue/unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html
+2022-12-20,Crazy Love: Overwhelmed by a Relentless God,Christian,Â£47.72,2,In stock,14,4b9d9cfe0f435788,https://books.toscrape.com/catalogue/crazy-love-overwhelmed-by-a-relentless-god_682/index.html
+2022-12-20,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Christian,Â£25.77,1,In stock,7,a322361a37a78d3d,https://books.toscrape.com/catalogue/blue-like-jazz-nonreligious-thoughts-on-christian-spirituality_461/index.html
+2022-12-20,Silence in the Dark (Logan Point #4),Suspense,Â£58.33,3,In stock,8,e46a164cf310fd7d,https://books.toscrape.com/catalogue/silence-in-the-dark-logan-point-4_542/index.html
+2022-12-20,The Grownup,Short Stories,Â£35.88,1,In stock,8,1bba4b1ba23ed2d6,https://books.toscrape.com/catalogue/the-grownup_546/index.html
+2022-12-20,Suzie Snowflake: One beautiful flake (a self-esteem story),Novels,Â£54.81,5,In stock,9,0e095ed785af7e43,https://books.toscrape.com/catalogue/suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html
+2022-12-20,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",Health,Â£49.05,3,In stock,16,43c6a960757cf559,https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html
+2022-12-20,"Eat Fat, Get Thin",Health,Â£54.07,2,In stock,14,047dfa57ba0bf638,https://books.toscrape.com/catalogue/eat-fat-get-thin_688/index.html
+2022-12-20,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,Health,Â£49.71,5,In stock,10,96aa539bfd4c07e2,https://books.toscrape.com/catalogue/10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html
+2022-12-20,The Art and Science of Low Carbohydrate Living,Health,Â£52.98,5,In stock,9,f9c87ccb2bc4853b,https://books.toscrape.com/catalogue/the-art-and-science-of-low-carbohydrate-living_570/index.html
+2022-12-20,Libertarianism for Beginners,Politics,Â£51.33,2,In stock,19,a18a4f574854aced,https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+2022-12-20,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,Politics,Â£52.65,4,In stock,14,2b5054a4192e9b06,https://books.toscrape.com/catalogue/why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html
+2022-12-20,Equal Is Unfair: America's Misguided Fight Against Income Inequality,Politics,Â£56.86,1,In stock,12,3968e3fbf4695d7c,https://books.toscrape.com/catalogue/equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html
+2022-12-20,Amid the Chaos,Cultural,Â£36.58,1,In stock,15,bb8245f52c7cce8f,https://books.toscrape.com/catalogue/amid-the-chaos_788/index.html
+2022-12-20,Dark Notes,Erotica,Â£19.19,5,In stock,15,88c21fcd38e2486e,https://books.toscrape.com/catalogue/dark-notes_800/index.html
+2022-12-20,The Long Shadow of Small Ghosts: Murder and Memory in an American City,Crime,Â£10.97,1,In stock,15,abeafe151a587d3b,https://books.toscrape.com/catalogue/the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html
